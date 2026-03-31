@@ -1,0 +1,98 @@
+{
+  "clients": [
+    {
+      "name": "Alma",
+      "slug": "alma",
+      "url": "almabalance.com",
+      "vertical": "Health & Wellness / Suplementos naturales",
+      "market": "Spain",
+      "platforms": ["shopify", "meta_ads", "google_ads"],
+      "google_ads_id": "739-973-3580",
+      "search_keywords": [
+        "espirulina suplementos España",
+        "suplementos naturales ecommerce",
+        "batido verde espirulina",
+        "creatina gummies mercado",
+        "nutrición deportiva natural España"
+      ],
+      "competitors": ["Athletic Greens", "Organifi", "Your Super"],
+      "platform_watch": ["shopify changelog", "meta ads updates", "ecommerce spain regulations"]
+    },
+    {
+      "name": "Cropster",
+      "slug": "cropster",
+      "url": "cropster.com",
+      "vertical": "SaaS B2B / Coffee Roasting Software",
+      "market": "Global",
+      "platforms": ["google_ads"],
+      "google_ads_id": null,
+      "search_keywords": [
+        "coffee roasting software",
+        "specialty coffee technology",
+        "roastery management platform",
+        "coffee supply chain digital"
+      ],
+      "competitors": ["Artisan Roasting Software", "RoastLog", "Ikawa"],
+      "platform_watch": ["google ads updates", "saas b2b marketing trends"]
+    },
+    {
+      "name": "Fuel Finance",
+      "slug": "fuelfinance",
+      "url": "fuelfinance.me",
+      "vertical": "SaaS B2B / FP&A Platform + Fractional CFO",
+      "market": "US & Canada",
+      "platforms": ["google_ads", "hubspot"],
+      "google_ads_id": "334-506-0219",
+      "search_keywords": [
+        "FP&A software startups",
+        "fractional CFO service",
+        "financial planning analysis SaaS",
+        "startup budgeting forecasting tool"
+      ],
+      "competitors": ["Mosaic", "Jirav", "Datarails", "Cube"],
+      "platform_watch": ["google ads updates", "hubspot updates", "fintech saas trends"]
+    },
+    {
+      "name": "Spirit Tea",
+      "slug": "spirittea",
+      "url": "spirittea.co",
+      "vertical": "Premium Tea / D2C + B2B Hospitality",
+      "market": "US & Canada",
+      "platforms": ["hubspot"],
+      "google_ads_id": null,
+      "search_keywords": [
+        "premium tea market trends",
+        "specialty tea industry",
+        "loose leaf tea ecommerce",
+        "tea hospitality supply"
+      ],
+      "competitors": ["Harney & Sons", "DAVIDs TEA", "Rishi Tea"],
+      "platform_watch": ["hubspot updates", "tea industry news", "D2C food beverage trends"]
+    }
+  ],
+  "platform_feeds": {
+    "shopify": {
+      "blog_rss": "https://news.google.com/rss/search?q=shopify+updates+OR+shopify+changelog&hl=en&gl=US&ceid=US:en",
+      "status_url": "https://www.shopifystatus.com/"
+    },
+    "meta_ads": {
+      "blog_rss": "https://news.google.com/rss/search?q=meta+ads+update+OR+facebook+ads+changes+OR+instagram+ads&hl=en&gl=US&ceid=US:en",
+      "status_url": "https://metastatus.com/"
+    },
+    "google_ads": {
+      "blog_rss": "https://news.google.com/rss/search?q=google+ads+update+OR+google+ads+changes+OR+performance+max&hl=en&gl=US&ceid=US:en",
+      "status_url": "https://ads.google.com/status/publisher/"
+    },
+    "hubspot": {
+      "blog_rss": "https://news.google.com/rss/search?q=hubspot+updates+OR+hubspot+new+features&hl=en&gl=US&ceid=US:en"
+    }
+  },
+  "email": {
+    "to": "marketing.heroe@gmail.com",
+    "subject_prefix": "Morning Brief"
+  },
+  "gemini": {
+    "model": "gemini-2.0-flash",
+    "enabled": true
+  }
+}
