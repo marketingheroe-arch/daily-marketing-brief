@@ -6,7 +6,7 @@
     <title>CMO Dashboard — Marketing Brief</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; background-color: #0d1117; color: #c9d1d9; line-height: 1.6; padding: 20px; }
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; background-color: #0d1117; color: #c9d1d9; line-height: 1.7; padding: 20px; font-size: 16px; }
         .auth-container { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); display: flex; align-items: center; justify-content: center; z-index: 9999; }
         .auth-hidden { display: none !important; }
         .auth-box { background: #161b22; border: 1px solid #30363d; padding: 40px; border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.4); text-align: center; max-width: 400px; }
@@ -19,8 +19,8 @@
         .auth-error { color: #f85149; margin-bottom: 15px; font-size: 13px; }
         .container { max-width: 1400px; margin: 0 auto; }
         .header { margin-bottom: 30px; border-bottom: 1px solid #30363d; padding-bottom: 20px; }
-        .header h1 { color: #58a6ff; font-size: 32px; margin-bottom: 8px; }
-        .header-meta { display: flex; gap: 20px; font-size: 14px; color: #8b949e; flex-wrap: wrap; }
+        .header h1 { color: #58a6ff; font-size: 36px; margin-bottom: 8px; }
+        .header-meta { display: flex; gap: 20px; font-size: 16px; color: #8b949e; flex-wrap: wrap; }
         .dashboard-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(650px, 1fr)); gap: 20px; margin-bottom: 40px; }
         @media (max-width: 1000px) { .dashboard-grid { grid-template-columns: 1fr; } }
         .client-card { background: #161b22; border: 1px solid #30363d; border-radius: 12px; overflow: hidden; transition: border-color 0.2s; }
@@ -28,29 +28,35 @@
         .card-header { background: #0d1117; padding: 16px; border-bottom: 1px solid #30363d; cursor: pointer; user-select: none; display: flex; justify-content: space-between; align-items: center; }
         .card-header:hover { background: #1c2128; }
         .card-title-group { flex: 1; display: flex; align-items: center; gap: 12px; }
-        .card-title { color: #58a6ff; font-size: 20px; font-weight: 700; }
-        .card-subtitle { color: #8b949e; font-size: 12px; margin-top: 2px; }
-        .platform-logo { width: 28px; height: 28px; border-radius: 6px; }
-        .platform-logo-google { background: linear-gradient(135deg, #4285f4, #34a853, #fbbc05, #ea4335); display: flex; align-items: center; justify-content: center; color: white; font-weight: 800; font-size: 14px; }
-        .platform-logo-meta { background: linear-gradient(135deg, #0668E1, #0091FF); display: flex; align-items: center; justify-content: center; color: white; font-weight: 800; font-size: 11px; }
-        .platform-logo-none { background: #30363d; display: flex; align-items: center; justify-content: center; color: #8b949e; font-size: 10px; }
+        .card-title { color: #58a6ff; font-size: 24px; font-weight: 700; }
+        .card-subtitle { color: #8b949e; font-size: 14px; margin-top: 2px; }
+        .platform-logo { width: 34px; height: 34px; border-radius: 6px; }
+        .platform-logo-google { background: linear-gradient(135deg, #4285f4, #34a853, #fbbc05, #ea4335); display: flex; align-items: center; justify-content: center; color: white; font-weight: 800; font-size: 16px; }
+        .platform-logo-meta { background: linear-gradient(135deg, #0668E1, #0091FF); display: flex; align-items: center; justify-content: center; color: white; font-weight: 800; font-size: 13px; }
+        .platform-logo-none { background: #30363d; display: flex; align-items: center; justify-content: center; color: #8b949e; font-size: 12px; }
         .card-toggle { color: #8b949e; font-size: 18px; transition: transform 0.3s; }
         .card-toggle.open { transform: rotate(180deg); }
         .card-content { padding: 20px; max-height: 5000px; overflow: hidden; transition: max-height 0.3s ease, opacity 0.3s ease; opacity: 1; }
         .card-content.hidden { max-height: 0; opacity: 0; padding: 0 20px; }
-        .section-title { color: #8b949e; font-size: 12px; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 12px; margin-top: 20px; display: flex; align-items: center; gap: 6px; }
+        .section-title { color: #8b949e; font-size: 14px; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 12px; margin-top: 20px; display: flex; align-items: center; gap: 6px; }
         .section-title:first-child { margin-top: 0; }
-        .kpi-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; margin-bottom: 16px; }
-        .kpi-box { background: #0d1117; padding: 10px; border-radius: 6px; border: 1px solid #30363d; }
-        .kpi-label { color: #8b949e; font-size: 10px; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 4px; }
-        .kpi-value { color: #58a6ff; font-size: 17px; font-weight: 700; }
+        .kpi-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px; margin-bottom: 18px; }
+        .kpi-box { background: #0d1117; padding: 14px; border-radius: 8px; border: 1px solid #30363d; }
+        .kpi-label { color: #8b949e; font-size: 12px; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px; }
+        .kpi-value { color: #58a6ff; font-size: 22px; font-weight: 700; }
+        .kpi-delta { font-size: 12px; font-weight: 600; margin-top: 4px; }
+        .kpi-delta.up-good { color: #3fb950; }
+        .kpi-delta.down-good { color: #3fb950; }
+        .kpi-delta.up-bad { color: #f85149; }
+        .kpi-delta.down-bad { color: #f85149; }
+        .kpi-delta.neutral { color: #8b949e; }
         .period-tabs { display: flex; gap: 8px; margin-bottom: 12px; }
-        .period-tab { padding: 6px 14px; border-radius: 20px; font-size: 12px; font-weight: 600; cursor: pointer; border: 1px solid #30363d; background: #0d1117; color: #8b949e; transition: all 0.2s; }
+        .period-tab { padding: 8px 16px; border-radius: 20px; font-size: 14px; font-weight: 600; cursor: pointer; border: 1px solid #30363d; background: #0d1117; color: #8b949e; transition: all 0.2s; }
         .period-tab.active { background: #1f6feb; color: white; border-color: #1f6feb; }
         .period-tab:hover { border-color: #58a6ff; }
         .period-content { display: none; }
         .period-content.active { display: block; }
-        .comparison-row { display: flex; justify-content: space-between; align-items: center; padding: 6px 0; border-bottom: 1px solid #21262d; font-size: 13px; }
+        .comparison-row { display: flex; justify-content: space-between; align-items: center; padding: 8px 0; border-bottom: 1px solid #21262d; font-size: 15px; }
         .comparison-row:last-child { border-bottom: none; }
         .comparison-label { color: #c9d1d9; }
         .pct { font-weight: 600; }
@@ -58,24 +64,24 @@
         .pct.red { color: #f85149; }
         .pct.yellow { color: #d29922; }
         .pct.neutral { color: #8b949e; }
-        .anomaly-item { padding: 6px 0; font-size: 13px; display: flex; align-items: flex-start; gap: 6px; }
+        .anomaly-item { padding: 8px 0; font-size: 15px; display: flex; align-items: flex-start; gap: 6px; }
         .anomaly-critical { color: #f85149; }
         .anomaly-warning { color: #d29922; }
         .anomaly-good { color: #3fb950; }
-        .insight-section { background: #0d1117; padding: 14px; border-radius: 6px; margin-bottom: 12px; border-left: 3px solid #30363d; }
+        .insight-section { background: #0d1117; padding: 16px; border-radius: 8px; margin-bottom: 14px; border-left: 4px solid #30363d; }
         .insight-section.account { border-left-color: #58a6ff; }
         .insight-section.campaigns { border-left-color: #d29922; }
         .insight-section.business { border-left-color: #3fb950; }
-        .insight-section-title { font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 10px; font-weight: 700; }
+        .insight-section-title { font-size: 13px; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 10px; font-weight: 700; }
         .insight-section.account .insight-section-title { color: #58a6ff; }
         .insight-section.campaigns .insight-section-title { color: #d29922; }
         .insight-section.business .insight-section-title { color: #3fb950; }
-        .insight-item { color: #c9d1d9; font-size: 13px; line-height: 1.5; margin-bottom: 8px; padding-left: 4px; }
+        .insight-item { color: #c9d1d9; font-size: 15px; line-height: 1.6; margin-bottom: 10px; padding-left: 4px; }
         .insight-item:last-child { margin-bottom: 0; }
-        .ga4-bar { background: #0d1117; padding: 12px; border-radius: 6px; border: 1px solid #30363d; margin-bottom: 16px; display: flex; gap: 20px; flex-wrap: wrap; }
-        .ga4-item { font-size: 12px; }
-        .ga4-item .ga4-val { color: #58a6ff; font-weight: 700; font-size: 14px; }
-        .ga4-item .ga4-lbl { color: #8b949e; font-size: 10px; text-transform: uppercase; }
+        .ga4-bar { background: #0d1117; padding: 14px; border-radius: 8px; border: 1px solid #30363d; margin-bottom: 18px; display: flex; gap: 24px; flex-wrap: wrap; }
+        .ga4-item { font-size: 14px; }
+        .ga4-item .ga4-val { color: #58a6ff; font-weight: 700; font-size: 18px; }
+        .ga4-item .ga4-lbl { color: #8b949e; font-size: 12px; text-transform: uppercase; }
         .comp-box { background: #0d1117; padding: 14px; border-radius: 6px; border: 1px solid #30363d; margin-bottom: 12px; }
     </style>
 </head>
@@ -114,12 +120,12 @@
                 <div class="card-content">
                     <div class="section-title">&#128200; KPIs Meta Ads (Marzo 2026)</div>
                     <div class="kpi-grid">
-                        <div class="kpi-box"><div class="kpi-label">Gasto 30d</div><div class="kpi-value">&euro;2,878</div></div>
-                        <div class="kpi-box"><div class="kpi-label">Impresiones</div><div class="kpi-value">221.6k</div></div>
-                        <div class="kpi-box"><div class="kpi-label">Clics</div><div class="kpi-value">5,130</div></div>
-                        <div class="kpi-box"><div class="kpi-label">CTR</div><div class="kpi-value">2.32%</div></div>
-                        <div class="kpi-box"><div class="kpi-label">CPC Medio</div><div class="kpi-value">&euro;0.56</div></div>
-                        <div class="kpi-box"><div class="kpi-label">Conversiones Meta</div><div class="kpi-value">&mdash;</div></div>
+                        <div class="kpi-box"><div class="kpi-label">Gasto 30d</div><div class="kpi-value">&euro;2,878</div><div class="kpi-delta neutral">7d: -0.1%</div></div>
+                        <div class="kpi-box"><div class="kpi-label">Impresiones</div><div class="kpi-value">221.6k</div><div class="kpi-delta up-good">&uarr; 7d: +6.3%</div></div>
+                        <div class="kpi-box"><div class="kpi-label">Clics</div><div class="kpi-value">5,130</div><div class="kpi-delta up-good">&uarr; 7d: +8.4%</div></div>
+                        <div class="kpi-box"><div class="kpi-label">CTR</div><div class="kpi-value">2.32%</div><div class="kpi-delta up-good">&uarr; 7d: +1.9%</div></div>
+                        <div class="kpi-box"><div class="kpi-label">CPC Medio</div><div class="kpi-value">&euro;0.56</div><div class="kpi-delta down-good">&darr; 7d: -8.2%</div></div>
+                        <div class="kpi-box"><div class="kpi-label">Conversiones Meta</div><div class="kpi-value">&mdash;</div><div class="kpi-delta neutral">Pixel activo</div></div>
                     </div>
                     <div class="section-title">&#127919; GA4 &mdash; Datos Web (30 dias)</div>
                     <div class="ga4-bar">
@@ -160,7 +166,7 @@
                         </div>
                     </div>
                     <div class="section-title">&#9888;&#65039; Alertas</div>
-                    <div class="anomaly-item anomaly-critical">&#128308; Sin tracking de conversiones en Meta &mdash; Imposible optimizar sin pixel de compra configurado.</div>
+                    <div class="anomaly-item anomaly-good">&#128994; Pixel de Meta correctamente instalado &mdash; Tracking de conversiones activo. Validar que eventos Purchase y AddToCart se disparan correctamente en GA4 vs Meta.</div>
                     <div class="anomaly-item anomaly-warning">&#128992; CTR cayo -19% en ultimos 15d vs periodo anterior &mdash; Posible fatiga creativa.</div>
                     <div class="anomaly-item anomaly-good">&#128994; CPC mejoro -8.2% en ultimos 7d &mdash; Buena senal de eficiencia.</div>
                     <div class="anomaly-item anomaly-warning">&#128992; GA4 ROAS real = 0.73x &mdash; Por debajo de break-even. Revenue &euro;2,109 vs Spend &euro;2,878.</div>
@@ -168,8 +174,8 @@
                     <div class="section-title">&#128161; Insights</div>
                     <div class="insight-section account">
                         <div class="insight-section-title">&#128268; Insights de Cuenta (Meta Ads)</div>
-                        <div class="insight-item">&#10060; <strong>Pixel de conversiones NO configurado</strong> &mdash; Bloqueador #1. Sin evento Purchase, Meta no puede optimizar por ROAS. Implementar CAPI + Pixel Purchase urgentemente. Esto solo puede multiplicar el rendimiento x2-3.</div>
-                        <div class="insight-item">&#127919; <strong>GA4 muestra 56 transacciones / &euro;2,109 revenue</strong> &mdash; Hay ventas reales pero Meta no las ve. La diferencia entre GA4 revenue y Meta spend confirma que el tracking es el problema, no la demanda.</div>
+                        <div class="insight-item">&#9989; <strong>Pixel de Meta instalado y activo</strong> &mdash; Tracking de conversiones funcionando. Siguiente paso: verificar que CAPI (Conversions API) este configurado server-side para mejorar match rate y atribucion. Esto puede mejorar ROAS reportado un 15-25%.</div>
+                        <div class="insight-item">&#127919; <strong>GA4 muestra 56 transacciones / &euro;2,109 revenue</strong> &mdash; Con pixel activo, cruzar datos GA4 vs Meta Events Manager para validar atribucion. Si hay discrepancia, revisar ventana de atribucion (7d click / 1d view) y asegurar que CAPI complementa el pixel.</div>
                         <div class="insight-item">&#128200; <strong>Considerar Advantage+ Shopping Campaigns (ASC)</strong> &mdash; Una vez implementado el pixel, migrar a ASC que optimiza automaticamente por ROAS. Ideal para eCommerce wellness.</div>
                     </div>
                     <div class="insight-section campaigns">
@@ -203,14 +209,14 @@
                 <div class="card-content">
                     <div class="section-title">&#128200; KPIs Google Ads (Marzo 2026)</div>
                     <div class="kpi-grid">
-                        <div class="kpi-box"><div class="kpi-label">Gasto 30d</div><div class="kpi-value">$6,616</div></div>
-                        <div class="kpi-box"><div class="kpi-label">Impresiones</div><div class="kpi-value">515k</div></div>
-                        <div class="kpi-box"><div class="kpi-label">Clics</div><div class="kpi-value">18.5k</div></div>
-                        <div class="kpi-box"><div class="kpi-label">CTR</div><div class="kpi-value">3.59%</div></div>
-                        <div class="kpi-box"><div class="kpi-label">CPC Medio</div><div class="kpi-value">$0.36</div></div>
-                        <div class="kpi-box"><div class="kpi-label">Conversiones</div><div class="kpi-value">28</div></div>
-                        <div class="kpi-box"><div class="kpi-label">Costo/Conv</div><div class="kpi-value">$236</div></div>
-                        <div class="kpi-box"><div class="kpi-label">ROAS</div><div class="kpi-value">&mdash;</div></div>
+                        <div class="kpi-box"><div class="kpi-label">Gasto 30d</div><div class="kpi-value">$6,616</div><div class="kpi-delta down-good">&darr; 7d: -4.7%</div></div>
+                        <div class="kpi-box"><div class="kpi-label">Impresiones</div><div class="kpi-value">515k</div><div class="kpi-delta down-bad">&darr; 7d: -32.4%</div></div>
+                        <div class="kpi-box"><div class="kpi-label">Clics</div><div class="kpi-value">18.5k</div><div class="kpi-delta down-bad">&darr; 7d: -15.5%</div></div>
+                        <div class="kpi-box"><div class="kpi-label">CTR</div><div class="kpi-value">3.59%</div><div class="kpi-delta up-good">&uarr; 7d: +24.8%</div></div>
+                        <div class="kpi-box"><div class="kpi-label">CPC Medio</div><div class="kpi-value">$0.36</div><div class="kpi-delta up-bad">&uarr; 7d: +13.5%</div></div>
+                        <div class="kpi-box"><div class="kpi-label">Conversiones</div><div class="kpi-value">28</div><div class="kpi-delta down-bad">&darr; 7d: -20%</div></div>
+                        <div class="kpi-box"><div class="kpi-label">Costo/Conv</div><div class="kpi-value">$236</div><div class="kpi-delta neutral">30d promedio</div></div>
+                        <div class="kpi-box"><div class="kpi-label">ROAS</div><div class="kpi-value">&mdash;</div><div class="kpi-delta neutral">Sin valor conf.</div></div>
                     </div>
                     <div class="section-title">&#127919; GA4 &mdash; Datos Web (30 dias)</div>
                     <div class="ga4-bar">
@@ -293,14 +299,14 @@
                 <div class="card-content">
                     <div class="section-title">&#128200; KPIs Google Ads (13 dias activo)</div>
                     <div class="kpi-grid">
-                        <div class="kpi-box"><div class="kpi-label">Gasto Total</div><div class="kpi-value">$1,012</div></div>
-                        <div class="kpi-box"><div class="kpi-label">Impresiones</div><div class="kpi-value">123.2k</div></div>
-                        <div class="kpi-box"><div class="kpi-label">Clics</div><div class="kpi-value">2,023</div></div>
-                        <div class="kpi-box"><div class="kpi-label">CTR</div><div class="kpi-value">1.64%</div></div>
-                        <div class="kpi-box"><div class="kpi-label">CPC Medio</div><div class="kpi-value">$0.50</div></div>
-                        <div class="kpi-box"><div class="kpi-label">Conversiones</div><div class="kpi-value">2</div></div>
-                        <div class="kpi-box"><div class="kpi-label">Costo/Conv</div><div class="kpi-value">$506</div></div>
-                        <div class="kpi-box"><div class="kpi-label">ROAS</div><div class="kpi-value">&mdash;</div></div>
+                        <div class="kpi-box"><div class="kpi-label">Gasto Total</div><div class="kpi-value">$1,012</div><div class="kpi-delta up-bad">&uarr; 7d: +377.8%</div></div>
+                        <div class="kpi-box"><div class="kpi-label">Impresiones</div><div class="kpi-value">123.2k</div><div class="kpi-delta up-good">&uarr; 7d: +462.8%</div></div>
+                        <div class="kpi-box"><div class="kpi-label">Clics</div><div class="kpi-value">2,023</div><div class="kpi-delta up-good">&uarr; 7d: +418.7%</div></div>
+                        <div class="kpi-box"><div class="kpi-label">CTR</div><div class="kpi-value">1.64%</div><div class="kpi-delta down-bad">&darr; 7d: -8.0%</div></div>
+                        <div class="kpi-box"><div class="kpi-label">CPC Medio</div><div class="kpi-value">$0.50</div><div class="kpi-delta down-good">&darr; 7d: -9.3%</div></div>
+                        <div class="kpi-box"><div class="kpi-label">Conversiones</div><div class="kpi-value">2</div><div class="kpi-delta neutral">Ramp-up</div></div>
+                        <div class="kpi-box"><div class="kpi-label">Costo/Conv</div><div class="kpi-value">$506</div><div class="kpi-delta neutral">Tracking roto</div></div>
+                        <div class="kpi-box"><div class="kpi-label">ROAS</div><div class="kpi-value">&mdash;</div><div class="kpi-delta neutral">Sin valor conf.</div></div>
                     </div>
                     <div class="section-title">&#127919; GA4 &mdash; Datos Web (30 dias)</div>
                     <div class="ga4-bar">
@@ -374,10 +380,10 @@
                 <div class="card-content">
                     <div class="section-title">&#128200; KPIs</div>
                     <div class="kpi-grid">
-                        <div class="kpi-box"><div class="kpi-label">Gasto Total</div><div class="kpi-value">$0</div></div>
-                        <div class="kpi-box"><div class="kpi-label">Impresiones</div><div class="kpi-value">0</div></div>
-                        <div class="kpi-box"><div class="kpi-label">Clics</div><div class="kpi-value">0</div></div>
-                        <div class="kpi-box"><div class="kpi-label">Conversiones</div><div class="kpi-value">0</div></div>
+                        <div class="kpi-box"><div class="kpi-label">Gasto Total</div><div class="kpi-value">$0</div><div class="kpi-delta neutral">Sin ads</div></div>
+                        <div class="kpi-box"><div class="kpi-label">Impresiones</div><div class="kpi-value">0</div><div class="kpi-delta neutral">Sin ads</div></div>
+                        <div class="kpi-box"><div class="kpi-label">Clics</div><div class="kpi-value">0</div><div class="kpi-delta neutral">Sin ads</div></div>
+                        <div class="kpi-box"><div class="kpi-label">Conversiones</div><div class="kpi-value">0</div><div class="kpi-delta neutral">Sin ads</div></div>
                     </div>
                     <div class="section-title">&#9888;&#65039; Estado</div>
                     <div class="anomaly-item anomaly-warning">&#128992; Sin cuentas de Google Ads ni Meta Ads conectadas.</div>
@@ -448,4 +454,3 @@
     </script>
 </body>
 </html>
-
