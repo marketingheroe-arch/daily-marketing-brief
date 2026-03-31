@@ -1,0 +1,40 @@
+name: Daily Marketing News Digest
+
+on:
+  schedule:
+    # Runs at 7:00 AM Madrid time (Spain = UTC+1 winter, UTC+2 summer)
+    # 5:00 AM UTC covers summer (CEST), adjust to 6:00 AM UTC for winter (CET)
+    - cron: '0 5 * * *'
+  workflow_dispatch: # Allow manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run news digest
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          GMAIL_FROM: ${{ secrets.GMAIL_FROM }}
+        run: python news_digest.py
+
+      - name: Commit updated digest
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add output/
+          git diff --staged --quiet || git commit -m "Daily digest $(date +%Y-%m-%d)"
+          git push
