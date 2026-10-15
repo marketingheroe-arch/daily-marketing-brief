@@ -1,0 +1,530 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T09:40:25.391189",
+  "clients": [
+    {
+      "client": "Alma",
+      "vertical": "Health & Wellness / Suplementos naturales",
+      "market": "Spain",
+      "industry_news": [
+        {
+          "title": "TEST: TORQ Enery Gel y Explore Flapjack - Mountainbike.es",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNV9tNGRhR1p2MGJhVk5TbVdNU0dfTUlGMlRCaVhyWmYwUHc3aXdwTVZ0YUxHbTRDMUZKZ0NqVEJGZ1VOZ0YwSXZCOWM2a2drYU9JelhTd2RaOVBQMGd3NnJmZXhrTWdkNHlZMVF5M0xaQnFFeXZQYUxLOGJKSWdVZXJRSlEtcjk2cXNwN3pvYjJVMjZSTmtKOdIBmAFBVV95cUxQNV9tNGRhR1p2MGJhVk5TbVdNU0dfTUlGMlRCaVhyWmYwUHc3aXdwTVZ0YUxHbTRDMUZKZ0NqVEJGZ1VOZ0YwSXZCOWM2a2drYU9JelhTd2RaOVBQMGd3NnJmZXhrTWdkNHlZMVF5M0xaQnFFeXZQYUxLOGJKSWdVZXJRSlEtcjk2cXNwN3pvYjJVMjZSTmtKOQ?oc=5",
+          "published": "Wed, 14 Oct 2026 08:21:08 GMT",
+          "source": "Mountainbike.es",
+          "keyword": "nutrición deportiva natural España"
+        }
+      ],
+      "competitor_news": [
+        {
+          "title": "Biarritz, Redans and $85 greens fees: How Francis A. Byrne rivals N.J.’s elite golf courses - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLTZSNGlJVnFuM19PV0JJTTJocmxmNXAtS21JbmY2S05NM1k2NkVhSkVjRG94d0MzYlRSbVNTeUJBbGpscjkyNy1uLTRITzJVV0hGVzh0bWRPbHhINEUxczNQdkVPWHFHeVFkYjRXZHpiSlgtV19KWTlwRVo5M1FuTXRtS3I2OEJxN09YS293MEpQcVgxbV9fb0Z0MHdFb3VHNVVOM3ZBREhpdw?oc=5",
+          "published": "Wed, 14 Oct 2026 13:43:40 GMT",
+          "source": "The New York Times",
+          "competitor": "Athletic Greens"
+        },
+        {
+          "title": "The $248,550 reason millions of Australians are being urged to check their super statement - Yahoo Finance Australia",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWExza0JkYUlQYmdfLUN0V1ZKVi15aUVrTHY2WXd4MVRXbUp4Vmd1NW5md09Gblc4RDhhazd6SzdOeXllNi1XSWMwTXA4QlFCM2JDZ1Z0ZVMxOEV1VGRWOGlwMHExSEdHYWlsaW5zRWpfZEJMd0lEeFF5ODc4dDNDcjA1NVRoblQ5WWxTTmRRUTc2dXRBU19wXzM0emZ6X0hXUXZuXzF4V2QySWpwZExXTTFFNFlJZkQweks4eWFLZUlRNVBUZ0Jkd2g3dFBpOFFyUk9n?oc=5",
+          "published": "Thu, 15 Oct 2026 05:50:18 GMT",
+          "source": "Yahoo Finance Australia",
+          "competitor": "Your Super"
+        },
+        {
+          "title": "Spokane 8-year-old needs your vote to become \"Super Kid\" - KXLY.com",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRnc5SnowMF92Q0Q5OVlaTGR1MUJSOFhxY0UzM0NyeHNCWnh2ZVRjVzVoZk9VQTFGa044SE5tWDNaUVAtaWI4MkcyV0NSSG9iUE9FYjBtekhubnk4eTNya21lTUsyOFU3UnItZ2hSODRlYzlsWTI1aXRyMVFkQWhLV0p1ZktiZzR2a1FIM2tYTFlGM3RRb0E1cGxJOUVyRHU3SVVQVTBHTXVGUjVnbEVXT3hkREFaWElYRUVHZXRnaUp1cE43NS1qOTlB?oc=5",
+          "published": "Wed, 14 Oct 2026 21:30:00 GMT",
+          "source": "KXLY.com",
+          "competitor": "Your Super"
+        },
+        {
+          "title": "ASIC flags persistent flaws in super fund valuations and audits - The Accountant Online",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUotaGNxQTNDNm80WEgzMWhXU09yRlJfSFlJdTRTRkN0MjJzbzhnRVZPRGtmeFRTb2p1MXhrZWFsbE9mbjZVSnQyWU84dndhaWljY05tRkRkRkNfeFpncFk1V2hWVGdBZi0tTE5uVGItVWFGN3ZHQmdraS0wZVJMS2N4YzlnVUlxTVh2SE9RSmRUam5kakJFYlE3NDhhNG5IRHRsWmMyQnNxUQ?oc=5",
+          "published": "Thu, 15 Oct 2026 08:10:30 GMT",
+          "source": "The Accountant Online",
+          "competitor": "Your Super"
+        }
+      ],
+      "platform_updates": [
+        {
+          "title": "Introducing Canvas: Opening the aperture on online store design - Shopify",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rdFlSNHJYTDZqVld4bFV4Tm9HUGxXN3dRZ3dCSnhuVE9DWFRYbjJFYjVGQkhqdEdER25FRW9IRGY4bzF3YmY1ckVEQzB4azJCeEVjcHl5a29velE?oc=5",
+          "published": "Thu, 01 Oct 2026 07:00:00 GMT",
+          "source": "Shopify",
+          "platform": "shopify"
+        },
+        {
+          "title": "Selling everything, everywhere, all at once: The Spring '26 Edition - Shopify",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CTUtabjNZWVloTTFaUllQNzAyTHBkNzBiMWw3Nm1WSXdvVmMtTlVMQjFxcFljc1pEbnpvWHVLaEdWWk1ZU2pRb0hsTURYRGFBLVhuMkNaTDdmaUVlT3ZZdlAtdEVzZw?oc=5",
+          "published": "Wed, 17 Jun 2026 07:00:00 GMT",
+          "source": "Shopify",
+          "platform": "shopify"
+        },
+        {
+          "title": "Introducing a brand new Collections experience (2026) - Shopify",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tSFhpa29XdUZVRzlkYjlCT19hQ0NJWlFlNXd1ZHdsWG9leGtjV2J5X3NTYlpZMHAtZ2RmNGJERW9fVDJfUkR5UzZoaTJLRVJIVUw4WDRUSmJuVEwzR0s1cGxpNFI2b1E?oc=5",
+          "published": "Thu, 16 Jul 2026 07:00:00 GMT",
+          "source": "Shopify",
+          "platform": "shopify"
+        },
+        {
+          "title": "Meta Blocks TikTok Ads on Facebook and Instagram in Seven Countries - TechRepublic",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNald1X3BBOGFlYWgxVmpGa1VVbENxNXV6OWhNRzZGc0FiYlVRLU81Qm1FRGpoanYwVXM4T014VUtWNG0tVjFZWGlTaFJaZzl6NE93ZXpGOUx2MDRXNWMtR0dLUExIUFhTZVhqb0xja2NDVkEyM3RidmF4bHpweWVzOVdxNjI?oc=5",
+          "published": "Tue, 13 Oct 2026 13:46:45 GMT",
+          "source": "TechRepublic",
+          "platform": "meta_ads"
+        },
+        {
+          "title": "Meta’s Generative Ads Model (GEM): Scaling the Central Model and Compute Engine for Frontier Ads AI - Engineering at Meta",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVGsyd2JRbTdBWHFEckczVmFuc2l4ejMtR0N6WWk3UUJaM2RiMVVlTWJDcFRPTjc4Vkc1ZVVpTkV2OFhUU3hNYnE5cThtZG8taElmNlQ2eWFZOER2OFFBVnRFR2ZiZHkwUWRBYWVJMkQ1OTFJZFR3NnJIdGhYeXFEejcydE04TV9uXy1QczRUQ04tYmVFQ1dJb2pvUnA2YmF2TXpGZW1R?oc=5",
+          "published": "Tue, 13 Oct 2026 16:23:14 GMT",
+          "source": "Engineering at Meta",
+          "platform": "meta_ads"
+        },
+        {
+          "title": "German court rules Meta liable for fake ads on Instagram, Facebook - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM09RTklwQzB4RFFiUEhqLTVOcHd4dlJJMmlrbFdTejBLYmNKWjFUR3BIVVlqS0NvVktZeUlpQ1FBb0gwN0dIQnhSR1l1Wkd0OWh4OHA2Nm1uTzZMQ1pYdTB0SzJoY2cyR3dCUC1ybFdfbzJ6ZVVocHNTTmpaZzVJUVBka1ZPZ3dvWHY1RHpZRjFrT016RDVFaVFneDF5RnNLakVScVVHbDJiVS1DYWYwTw?oc=5",
+          "published": "Thu, 17 Sep 2026 07:00:00 GMT",
+          "source": "Reuters",
+          "platform": "meta_ads"
+        },
+        {
+          "title": "Guide your campaign spending with new priority and allocation features - blog.google",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRnlvTmMydjF2VnRFV2J5QUFUNGRuZHItMU5VVnhkcmd4QVM0VEc0dHJUeThsb0VnNzYxLUc0a2RCWWlVOHl4WHlWZnJIaFVlX1J2R3VkaDNieWZWZHZVUlFFOU1jOUktZXpieFdKYnI4YXNORThSVDdZZE9oVG1UUlBaSzVXcW9iaHVR?oc=5",
+          "published": "Wed, 14 Oct 2026 15:11:17 GMT",
+          "source": "blog.google",
+          "platform": "google_ads"
+        },
+        {
+          "title": "How Montessori Toddlers grew their business with Google Ads - Google Business Profile",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNajZucG9Gb2hZdE03cXlfQjJiWDMzTkprd1p0RjJ6VGJaOEFFdkFud254dzVyMzgxOHZ2WnR5SG5vaGFkNC1lek1lQlJJZVl0c0NGNkZ4V1NOMXhLSkFVZTdIakhmN2h0TXZ4OElUWDRTMHpXeGxicVlDZ1Q4M1ptclpR?oc=5",
+          "published": "Mon, 12 Oct 2026 15:20:34 GMT",
+          "source": "Google Business Profile",
+          "platform": "google_ads"
+        },
+        {
+          "title": "Google Ads Introduces Channel Prioritization And Budget Allocation - Search Engine Journal",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb0JtM3YxRldoZ3R0Um9pOWQ5YThMS0I3U1lPSGsxSGpnUDd3Y0pNRTVxVWtNSmxwR1ZPTGhvY0hJZ2lQUGRxbU1yck1WV3NuMkxXUDlYc2tRdnlxMmRYN1ZSWWpwZ19zTTZOS0pCbTUwZEYtQTVVa05HZEJnN1VzU3gyRS1CUEdkWXBnMmdpdEFQc2FCREk0M3dKaGNhYXgyeWlwMmNwZDJZV3VJZThZ?oc=5",
+          "published": "Wed, 14 Oct 2026 15:00:33 GMT",
+          "source": "Search Engine Journal",
+          "platform": "google_ads"
+        }
+      ],
+      "ai_summary": null
+    },
+    {
+      "client": "Cropster",
+      "vertical": "SaaS B2B / Coffee Roasting Software",
+      "market": "Global",
+      "industry_news": [
+        {
+          "title": "How to make your coffee roastery more efficient - Perfect Daily Grind",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOb2hoTVNKMjlmclBCZGYteXR0ZjVEVklUalpZN2FOdXB6NXNPTHRVMTdTSU1MU09DZjVQV2xEV29hQXRGcDB6VGNwbzRLU3kyREwwV1pRYk9DUkFTYWoxWTgzRlJqN1dpTW5GQ1FMSnlISzYwWkVMa0VCMVVpQQ?oc=5",
+          "published": "Wed, 14 Oct 2026 07:26:03 GMT",
+          "source": "Perfect Daily Grind",
+          "keyword": "coffee roasting software"
+        },
+        {
+          "title": "Phil & Sebastian Named National Winner – Canada At The 2026 Global Coffee Awards - Sprudge",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMXdOa2lTQ2QyeGdaYWJlcGJNbzI1dkt4ZzVFSVg5amtuSEVoMW9DY1I1MlJQNWtLMURxSWlpNHRBdE82MXJQcHVDSjFaTHF6WE5kZ1pIV25oVTN2MUhvNVVLdEtkMUZZanJmWXFCTXNTN0pFWGJXaENSNG5YWk8xejRzd2k1TW9lemstQWE3RkpRaDVyaUp5eXlmOHFLcF91Y2RDQ0JqZzhzOVhDTXc?oc=5",
+          "published": "Wed, 14 Oct 2026 15:05:31 GMT",
+          "source": "Sprudge",
+          "keyword": "coffee roasting software"
+        },
+        {
+          "title": "All Coffee, No Plastic Waste: Lavazza’s Pod Brewer Is the Invention I’ve Been Waiting For - CNET",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWZKdEgtSnExOHhqRU40NEoydEVySDJBZENRNWFZekdvQnMtbzJzcDdhdkRQeTQ0S0RnZEpVdnRqNjVKNjQwd2haY3RvRk1GTXRLXzQ3Ty1uNTNmWUVJdWRJT0g0SzZ4VjJWWDVhM2ZoSEc5RVNBc1p0SDYwU05JQ0YwY0hHbnAtUnhmNEZJdzUxVC1FNW1KRjl0QnNYUnJvRVZvUkJrR2RtUmpha1U3aHBn?oc=5",
+          "published": "Thu, 15 Oct 2026 03:19:28 GMT",
+          "source": "CNET",
+          "keyword": "specialty coffee technology"
+        },
+        {
+          "title": "Schaerer partners with SCA Germany for German Latte Art Championship - Global Coffee Report",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTEVVVFpWWmtqZUc0eDJmZElRWWhkWGtCdlFDVU1JbjVFQW55d3Q4WHRZWHdUejcwWHlLWEFhSXMzVGtmNDYtd08ybDZ5ZFAycHlFNU9YSUpZM2tza0JkQ1YxLTBXbFpBMXhLWmtCc3I2dDN1QVlNMmo5UFZVNVlVTEtYTUVHUm11ZDRLdTlzb1ZrMGRMa2Fz?oc=5",
+          "published": "Thu, 15 Oct 2026 01:51:35 GMT",
+          "source": "Global Coffee Report",
+          "keyword": "specialty coffee technology"
+        },
+        {
+          "title": "Scotsman Ice brings ice to the specialty coffee stage: Gold Sponsor of the World Barista Championship in Panama - Comunicaffe International",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ1pxLVI5ZVJpcGo0elpodUdtVTcyQWt2YkRZb0ZHUDhLU2c2RkJLc1hoazgzMHctZFF4enptT3BPb2xfbVhvam50ZEF4cnBWWHM5MW1qb08taHNDZDJnQk53YzRaWm9IbnQyalpQNFFSVG5sY1dyY0FXYjVIRGJNUzBHRUhTQUFXbmRXanlFeXVlZDlqZnpxeDNabEVjcVhBWU9uckxhWnVfRi1seUE5SjM2WUxpQ3BudVpOcldXcmZ0Y0IzcEE5WnNXZXZYdVltc3A2SldB?oc=5",
+          "published": "Wed, 14 Oct 2026 10:08:15 GMT",
+          "source": "Comunicaffe International",
+          "keyword": "specialty coffee technology"
+        },
+        {
+          "title": "The bitter taste of sustainable coffee - New Food",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNenEtUW9XaHdGSWxyVGdSUENQbzI2WGdhb2RhbGxQZVVubGh0dnFVazNIYWtSSUJCZEVmRjZXbUg4V2JLa3BnYkJKRlRtX0NTTTRUSlU0WmNqOTRia29sMHBrdmJibG5oSmJXeFJhMHFpVTN0WF9BdjBlUXJsQUVLd0NjTmhkT3BpdHU0NDV0Yw?oc=5",
+          "published": "Wed, 14 Oct 2026 14:18:57 GMT",
+          "source": "New Food",
+          "keyword": "coffee supply chain digital"
+        },
+        {
+          "title": "Supply chain management in the food industry - Inside Retail Asia",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUGJ2a3dqcGUxMHJvaGNpYUpjVHpJU0ZwZlJUS3ZNZDFtbEJOeThfVmxLQWJZaFd6elJuMTNiNUlJOUNHWG9EalRvZ0xZVjFWcENFam5GSHgxZUkyeTk2MWtKbGlrTDA0MXNmN0xMamgyb1VadjgtaU82dWItSll0ejBnNVVMVHM5Tnc?oc=5",
+          "published": "Thu, 15 Oct 2026 01:41:13 GMT",
+          "source": "Inside Retail Asia",
+          "keyword": "coffee supply chain digital"
+        },
+        {
+          "title": "Kagwe issues warning as Kenya coffee production falls to 50,000 tonnes - People Daily",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZm91aUZzbEQ2Ylc4QzZ2aktqMWw4V3lNRW1JQTRsZ0NaajlMZGdtdjZJdmFLUW5lcmloT0Nkbkw2MlQyT2RmUWl6bVp0a2ZybUpIVEhLSDEwaU93ZmhEcDFDUG9MQXhySzZhR0tiUUdZRU5jTTlHRlVoQlV1MV9zS1paN3puMG5qdzA2SmZhQ0VBOHRSbVNjUmtnVTgzWkNnVUVNTA?oc=5",
+          "published": "Wed, 14 Oct 2026 20:07:42 GMT",
+          "source": "People Daily",
+          "keyword": "coffee supply chain digital"
+        }
+      ],
+      "competitor_news": [
+        {
+          "title": "Perezida wa Mali General Assimi Goïta yakiriye Minisitiri Nduhungirehe - KigaliToday",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZEtpc3BQTW9uSmNyYm1hSXhDRThpeUszNm8yc3pVdkswS1RGZTB1dXU1VVF0MjJGT1ZlcGFmcEs1WVRnaW1rVHhVcUFRSS1wVEEwanRQcWFVNHAtdGlUSXdrSDhSYTZQanJqUjd0dnNIQlJxVk5XeFdDVGhxQTlJaDU3YTlfSVJaMDVFdWw5ZktRakVRSUkxUEpUb0ZKeGNXbjN5MHBFUGdXRVhzU3FmM2JGbmVLOVVuSlhIdTNvUkxuNTQ?oc=5",
+          "published": "Wed, 14 Oct 2026 11:47:55 GMT",
+          "source": "KigaliToday",
+          "competitor": "Ikawa"
+        },
+        {
+          "title": "Duane ‘Keffe D’ Davis yakatiwe igifungo cya burundu kubera uruhare mu rupfu rwa Tupac - KigaliToday",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV2VfZ2k0bWgxdjRmWWw4bnhQTlE1Q3psWmFUMno1eFBaV1ZMdUU2d01WckFGalVsZWNRT0FEYVlzNzZZYkd3VzlnazlFTG56MHV1bWphdWhieDAzeHVpajNiZ2lxYkQ4RGYzT0thOV9CbG4tWVZCdElnNmk4VzM0TzZGRTVjNzlKSEt4T2RNQmVhTE1UamkzaTRnRWhKczZUb0hGVDAzQ3RZX2ZsTjlhUEhwc1ZpSV9aYlBVcktsc1FBTDdyNEw2RmhHWFNabjg?oc=5",
+          "published": "Wed, 14 Oct 2026 07:25:12 GMT",
+          "source": "KigaliToday",
+          "competitor": "Ikawa"
+        },
+        {
+          "title": "Papa Leo XIV arwaye kanseri - KigaliToday",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUVZlZ2RPUjlSWV82R2dKRHMzWmxnWWRjMXczbmk2NHNjX3NTVW90LTF2YVVzdUM0WjZqMG5KSmJ5THFmdURBbmotc2Znb3BWcU5uclhlLXNLUGZFcHNPSmlPaGtST0hGOXdzdEszWjRRTERVZUs1UWQ5dEl0NWFBRnNhTmk?oc=5",
+          "published": "Wed, 14 Oct 2026 06:51:52 GMT",
+          "source": "KigaliToday",
+          "competitor": "Ikawa"
+        }
+      ],
+      "platform_updates": [
+        {
+          "title": "Guide your campaign spending with new priority and allocation features - blog.google",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRnlvTmMydjF2VnRFV2J5QUFUNGRuZHItMU5VVnhkcmd4QVM0VEc0dHJUeThsb0VnNzYxLUc0a2RCWWlVOHl4WHlWZnJIaFVlX1J2R3VkaDNieWZWZHZVUlFFOU1jOUktZXpieFdKYnI4YXNORThSVDdZZE9oVG1UUlBaSzVXcW9iaHVR?oc=5",
+          "published": "Wed, 14 Oct 2026 15:11:17 GMT",
+          "source": "blog.google",
+          "platform": "google_ads"
+        },
+        {
+          "title": "How Montessori Toddlers grew their business with Google Ads - Google Business Profile",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNajZucG9Gb2hZdE03cXlfQjJiWDMzTkprd1p0RjJ6VGJaOEFFdkFud254dzVyMzgxOHZ2WnR5SG5vaGFkNC1lek1lQlJJZVl0c0NGNkZ4V1NOMXhLSkFVZTdIakhmN2h0TXZ4OElUWDRTMHpXeGxicVlDZ1Q4M1ptclpR?oc=5",
+          "published": "Mon, 12 Oct 2026 15:20:34 GMT",
+          "source": "Google Business Profile",
+          "platform": "google_ads"
+        },
+        {
+          "title": "Google Ads Introduces Channel Prioritization And Budget Allocation - Search Engine Journal",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb0JtM3YxRldoZ3R0Um9pOWQ5YThMS0I3U1lPSGsxSGpnUDd3Y0pNRTVxVWtNSmxwR1ZPTGhvY0hJZ2lQUGRxbU1yck1WV3NuMkxXUDlYc2tRdnlxMmRYN1ZSWWpwZ19zTTZOS0pCbTUwZEYtQTVVa05HZEJnN1VzU3gyRS1CUEdkWXBnMmdpdEFQc2FCREk0M3dKaGNhYXgyeWlwMmNwZDJZV3VJZThZ?oc=5",
+          "published": "Wed, 14 Oct 2026 15:00:33 GMT",
+          "source": "Search Engine Journal",
+          "platform": "google_ads"
+        }
+      ],
+      "ai_summary": null
+    },
+    {
+      "client": "Fuel Finance",
+      "vertical": "SaaS B2B / FP&A Platform + Fractional CFO",
+      "market": "US & Canada",
+      "industry_news": [
+        {
+          "title": "KBS CFO Acquired by Numera as Part of Brand Expansion - The Manila Times",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWWtEcmEwSlZSVDRjbU5ubTFNaktvWnVEVXNXUXBmSHFxeUZ0clZvOTdMcjFEZFNtaTlSZ1RkZDMyTXdlQUExcDJsOUptRUNBTldsNzdRZlNZNFdnQ19jQW8tUVpsQ195MDNxaEFZb0c4TzhLZ1BjUkdtTlVpWUZKaE1Fb1Viazg5YXZVdUJrSHBoeFZybGIwTUx0c0o5bzU3VVpNcmgxanBfdmJtaW1oOTA2SjlLZWxlZGFSZkhaZVQ3bmpxNG5Ta29pa9IBywFBVV95cUxPWWtEcmEwSlZSVDRjbU5ubTFNaktvWnVEVXNXUXBmSHFxeUZ0clZvOTdMcjFEZFNtaTlSZ1RkZDMyTXdlQUExcDJsOUptRUNBTldsNzdRZlNZNFdnQ19jQW8tUVpsQ195MDNxaEFZb0c4TzhLZ1BjUkdtTlVpWUZKaE1Fb1Viazg5YXZVdUJrSHBoeFZybGIwTUx0c0o5bzU3VVpNcmgxanBfdmJtaW1oOTA2SjlLZWxlZGFSZkhaZVQ3bmpxNG5Ta29paw?oc=5",
+          "published": "Wed, 14 Oct 2026 17:46:34 GMT",
+          "source": "The Manila Times",
+          "keyword": "fractional CFO service"
+        },
+        {
+          "title": "Numera acquires KBS CFO to expand its national accounting platform - Dealroom",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYjJOVW5tZjlCSGkxQmxrTTlhWXgxeGlIUWd3VGtIa1RjSDI5MVFHQVQycVl2aGIycnBMZjVrTWtIU1dsSW5HVk9IYWRFM0xpQzYwT3M4QVF2VXpaTEZZb05UbWlYRE1rb3ZTVFZzZjlYb3Q3cHVQMTFjZWlsdXdXZFktR3BRZWlOc1BDN0JTRVZsVkNqNW1Rdzhnc0tmbERyUkE?oc=5",
+          "published": "Wed, 14 Oct 2026 18:46:32 GMT",
+          "source": "Dealroom",
+          "keyword": "fractional CFO service"
+        },
+        {
+          "title": "CRI Expands into Southwest Florida with Stroemer & Company - ACCESS Newswire",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMi1ybXpmTHZXclY4WmQ5VDhBVU5nTTFjaHVuSzUzOFFDbUpFcE5nTTlKbDdyV2NTTjJtU0NSNHhfXzVjY1FFVURNYTdMdnlQSXo2ZHhFeS12c1RPQWZ0bW5wMFh0bkI3Wi1CNkFKUk1vek9lRGVfV2JiWE8xdTJWU3d6WXlTRmpyalpTQWlaUkRWamdlV3JCSVRvVzdBSlVTOF9SQmxsUjdWdE1HdlNDTS01YVFCSklZLUxVblhrbldocC1HbmhBMTR0VjBLZ1JTeW41cGJfbGV4V0dmTURr?oc=5",
+          "published": "Wed, 14 Oct 2026 11:16:54 GMT",
+          "source": "ACCESS Newswire",
+          "keyword": "fractional CFO service"
+        },
+        {
+          "title": "Firstup Names Ian Winkler Chief Financial Officer - PR Newswire",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbFFxYTVYN29ZaXBKRG5OUlBpNTJaaWJ6TElZQlFiOEp5dEJzT2lTZDcyR3h5MnlZQVJ0M3lEcGViMDlBV3pNRjlxSHluamlidUlDNkI2c1BKczM1czNUamFxY3ktbDdMLURzTmc2NldabXZHcGdNaTJuWDM4V0o5N01xcHctOU5LcUl3djhhWmtETWhWRVNZcDluMlFyOGpOeU5xRkdJZXk?oc=5",
+          "published": "Wed, 14 Oct 2026 13:00:00 GMT",
+          "source": "PR Newswire",
+          "keyword": "financial planning analysis SaaS"
+        },
+        {
+          "title": "Firstup Appoints Former Google and Medable Executive Ian Winkler as Chief Financial Officer - citybiz",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON0NHUEJYQm1TT2M5OG1UMHdVbF83cTVKUHVCZXU2YnYzdGVfR2pWOWU1dlJManNrNGlHSHBVb2txSXB3Y0V4ZDFJaExrZTFKWWxpTnI2aVpXX1NuNVJDdzF2NHFnMG1hN0tveWpfU3VCS2ZwazI4aXhPSmNaQmM1WlRWWU03dF9GNWhkOFo1a29PUmo0eXdSci1HbXczbkJrcXBMM1daYzdxdE9fVVZFU0NlcUZvckRPcVdIYWFzeUloT3pyOFJQN0pB?oc=5",
+          "published": "Wed, 14 Oct 2026 14:22:58 GMT",
+          "source": "citybiz",
+          "keyword": "financial planning analysis SaaS"
+        },
+        {
+          "title": "NetSuite Launches Free AI-Powered Financial Platform for Startups - Small Business Trends",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa0diejAxbEI0ZnprQUZ3UGhDTFhHOS1TazdnSzNTWDlSYjAxdlhpSE9BVnFIck9qVzNwSGZoMTNXRDkwM0dRajlZVkF4VkZ6RS0ydmpSczh4d3N4UkF5Zjd6UTRIeUNfd1cwUFUwRk55RkJFVTVzS1dCNk80UVBqTzdjOTJOZ0Q3MU9lRmhhdFd3OTZxQ0RGaw?oc=5",
+          "published": "Wed, 14 Oct 2026 12:30:49 GMT",
+          "source": "Small Business Trends",
+          "keyword": "financial planning analysis SaaS"
+        }
+      ],
+      "competitor_news": [
+        {
+          "title": "The Mosaic Company (MOS) stock price, news, quote and history - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fZnZIZm9HMDBtUWRuaW9tNnZJVzBkeklCMU5OTVA2c1A0QUxocEtGMUI1aWlsd0V6MDFoeENXYzJEVDBoY1ZtVE4tTm5DVVAy?oc=5",
+          "published": "Wed, 14 Oct 2026 22:55:37 GMT",
+          "source": "Yahoo Finance Singapore",
+          "competitor": "Mosaic"
+        },
+        {
+          "title": "Mosaic Launches Public Phase of Conners Campus Capital Campaign - MyCentralOregon.com",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3QzZnhqX2VBX3hqZTdUM0NPcWsxSW1OcjM2MTJDQnJ1TEl0V0t1aTBfeWhiRC1vcndNSjh1LXQ3SnpUWk9LSENpV2VxdV93ZERQd2VLdTJnM2J0QU1QS1p4a21KaS1rYnZGSE81MTVMVlNIVV9idnhwTnBOYklVZkpzU2M5UlBBYVJMZGsxN3RoUi1FZHduUnMzbmhOUzdzMkMxYVlvR0xKRGs?oc=5",
+          "published": "Wed, 14 Oct 2026 22:29:39 GMT",
+          "source": "MyCentralOregon.com",
+          "competitor": "Mosaic"
+        },
+        {
+          "title": "MOSAIC ANNOUNCES THIRD QUARTER 2026 EARNINGS RESULTS DATES - Morningstar",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRzNwTkp0NGFGbzhfYVh1dFpjaXM1TUdwSHEtczgxZDNrcXNsUE5pQWNIWVZ0SWtnY01vTXd5VHNMM3JXSzlVZm1ua29VZzlWNk5yZzdpdU1vWUkzY0hJVzJ6RDM0MGVGTW1zTXdqNTRielRCTm1Ra0Z1R3A3Mm5RSFZ4b2o2Q2NYOWREUXZFUmZhUU9Qcmk1Wl8wQy12aElFVlFUd1VaMzNiLXdoSktYX01YUUVNZU9TUVdv?oc=5",
+          "published": "Wed, 14 Oct 2026 20:15:00 GMT",
+          "source": "Morningstar",
+          "competitor": "Mosaic"
+        },
+        {
+          "title": "76% of finance leaders under high pressure to fully implement AI - CFO.com",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb2JPdnNIdFQ2bnJYWHNKRTV1YVNkYzg0S2ZabmgyajFsVE9YdnN1R1I4SzhaVmVJRVM2OGJKZlE0Nmh3ZTFqbmF3S3FkekxpRGxXQ05uUGEzTzFkeFNpWV9BVHBJYTdsN25fMzBFeGFacFVIOFVVUWRiSWlLWHNIQzRHaFpQZmRKYlI3WHEteFp2cHl1aXB2YkFvMHQ?oc=5",
+          "published": "Wed, 14 Oct 2026 13:35:37 GMT",
+          "source": "CFO.com",
+          "competitor": "Datarails"
+        },
+        {
+          "title": "Automation Was Supposed to Save Finance Teams Time. It Handed Them a Second Job Instead - Inc.com",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLS03QW5DX3d5OHFvaUQ2QzByWVMzOWdwZUxGOGxqeHlMY3dFZzF3dEg0cTZ3ei00cXNwSGRoNXJVR1ZueE8xSGx3dkhkOFVtd2JTeHBmNFhMd19RU3F6aUxnemNOTnpFMU9QSVZvQndyQXNoWXhKV3pMa3o4MENSMFFEdk5kZEdhMVFfY1pBU2RhQWhLUk1sRGp6eEhHTzdzRk16OVJ5SUYyV2gxcHd6aUd0alVaOEJqbnpvdk5heWhid3R1dmc4?oc=5",
+          "published": "Wed, 14 Oct 2026 19:41:33 GMT",
+          "source": "Inc.com",
+          "competitor": "Datarails"
+        },
+        {
+          "title": "CuBE Packaging allocates over $30m to Illinois plant expansion - Packaging Gateway",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSW1PRmJMNzZpWDlkTnctZnJzeWhsX09FOW1xZmNHUVdTR2VPazg5bnRZclVnbWlYd2RpZ2gxQ2xmTDdsYTd6Qy11blRxSUwtNDBKTkwxQ3Y5R29RNmR1X2V2V1NCTDI3b3RfRVZpa2taNmJTZm5ldktqckFMSWRDekdLajNMUQ?oc=5",
+          "published": "Thu, 15 Oct 2026 06:49:28 GMT",
+          "source": "Packaging Gateway",
+          "competitor": "Cube"
+        },
+        {
+          "title": "Holyoke officials back shutting down Demented FX’s The Cube, owner responds - Western Mass News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTExpdDk0OW9faWE0Ukxzc2EyYmdaZVVrbC1oM2d4N0ZYd1hsaWdsZ0d1bVFFNVlfZkhjYl9ZZ1g3dUphb05rOS1jQnFnWGVQN0wzNkJ0U3YwcXBSVzJPM2tTbklYNUFPX0p2djktMDM4d1JWNktmQnAydTg5d0Fya1JDSTdadU42SjVlWENQYk9IT0hrZlZQdTJtMnBKY3R5YUpuYjBBUEo2R3h4a3JMOFlNaw?oc=5",
+          "published": "Wed, 14 Oct 2026 22:29:00 GMT",
+          "source": "Western Mass News",
+          "competitor": "Cube"
+        },
+        {
+          "title": "LUKE GYGAX, GOOEY CUBE PARTNER ON 'TEMPLE OF INQUINATIOUS EVIL' - ICv2",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTlVLYzF3RVhwSFNqX0JPSU5BVGdSUTROUXBsTG01ZlNWZDlua3ZGRmpuMVB1SnNva2Q1YW52LXhCbV84eGxBOTQtX1ZkaHMtdmxERktyMFgzZDNsaGVpLWlyT1lEdmpfOVFPSzJUUVBCTEluR245NFRIMmRKSHFIZmZuMktRU0xQMEItMEd1a21Qa1NPWHFjcE5PR3Y?oc=5",
+          "published": "Wed, 14 Oct 2026 21:15:50 GMT",
+          "source": "ICv2",
+          "competitor": "Cube"
+        }
+      ],
+      "platform_updates": [
+        {
+          "title": "Guide your campaign spending with new priority and allocation features - blog.google",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRnlvTmMydjF2VnRFV2J5QUFUNGRuZHItMU5VVnhkcmd4QVM0VEc0dHJUeThsb0VnNzYxLUc0a2RCWWlVOHl4WHlWZnJIaFVlX1J2R3VkaDNieWZWZHZVUlFFOU1jOUktZXpieFdKYnI4YXNORThSVDdZZE9oVG1UUlBaSzVXcW9iaHVR?oc=5",
+          "published": "Wed, 14 Oct 2026 15:11:17 GMT",
+          "source": "blog.google",
+          "platform": "google_ads"
+        },
+        {
+          "title": "How Montessori Toddlers grew their business with Google Ads - Google Business Profile",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNajZucG9Gb2hZdE03cXlfQjJiWDMzTkprd1p0RjJ6VGJaOEFFdkFud254dzVyMzgxOHZ2WnR5SG5vaGFkNC1lek1lQlJJZVl0c0NGNkZ4V1NOMXhLSkFVZTdIakhmN2h0TXZ4OElUWDRTMHpXeGxicVlDZ1Q4M1ptclpR?oc=5",
+          "published": "Mon, 12 Oct 2026 15:20:34 GMT",
+          "source": "Google Business Profile",
+          "platform": "google_ads"
+        },
+        {
+          "title": "Google Ads Introduces Channel Prioritization And Budget Allocation - Search Engine Journal",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb0JtM3YxRldoZ3R0Um9pOWQ5YThMS0I3U1lPSGsxSGpnUDd3Y0pNRTVxVWtNSmxwR1ZPTGhvY0hJZ2lQUGRxbU1yck1WV3NuMkxXUDlYc2tRdnlxMmRYN1ZSWWpwZ19zTTZOS0pCbTUwZEYtQTVVa05HZEJnN1VzU3gyRS1CUEdkWXBnMmdpdEFQc2FCREk0M3dKaGNhYXgyeWlwMmNwZDJZV3VJZThZ?oc=5",
+          "published": "Wed, 14 Oct 2026 15:00:33 GMT",
+          "source": "Search Engine Journal",
+          "platform": "google_ads"
+        },
+        {
+          "title": "HubSpot CRM Review and Pricing in 2026 - Business.com",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XLVpENUMtLWt6UGdGYVR2SE05ZzVwUFVOcEtBXzhWbGpUeGlmYlZiS3JZbnF6QzZlSXAwOHlabUlxU2F3c2NrTzU2Q3RLYmhDYlB4UDVFTG4?oc=5",
+          "published": "Wed, 07 Oct 2026 07:00:00 GMT",
+          "source": "Business.com",
+          "platform": "hubspot"
+        },
+        {
+          "title": "HubSpot CRM Review: Features, Pros & Cons - TechRepublic",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhUEZGbmtZc1d4MmdVeE9sT0hmRmJhOFpxeDhRUHBQdnpKaUlBOE1STmVDRmV6U3RUYVNVTFg3UHJhSTJhenBGaEZoWDhPZFdzTWZPUndkbDlLV3d0OXhrdHNn?oc=5",
+          "published": "Tue, 08 Sep 2026 07:00:00 GMT",
+          "source": "TechRepublic",
+          "platform": "hubspot"
+        },
+        {
+          "title": "HubSpot (HUBS) Unveils Breeze Assistant And An Autonomous Smart CRM - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWjZOS3BBaVNvTUw2a21tajZuSVRwcXhpZ0ZQdEZ0eXRsdVhaVURoM2k4WVB3UURHNWw2S19LaXJ0LVp6cEpKa0VPdlNVU0xleWhwTXE0SnpqcWpUVnN3QkNKdXctMVltb2hsbS1GYkJQVFpiV05COUNVZGNDUk5wVVRXTmpOb19mOS0taEZ5SkdHWmZVaG5XZFZuM2NxVU1sTmxR?oc=5",
+          "published": "Thu, 17 Sep 2026 07:00:00 GMT",
+          "source": "Yahoo Finance",
+          "platform": "hubspot"
+        }
+      ],
+      "ai_summary": null
+    },
+    {
+      "client": "Spirit Tea",
+      "vertical": "Premium Tea / D2C + B2B Hospitality",
+      "market": "US & Canada",
+      "industry_news": [
+        {
+          "title": "LVMH Stock: The Focus Is On China (OTCMKTS:LVMHF) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGOFFNTFhLcHlheWJmRFdISkE1WVVnT040OVJ3eFpyS1VmRGQ1R0k3dF9RUElyeGZBWE8yeHJoLXVxZEV6Y2hRMEZ2OXFtRkRtcWpYVmcwMjQ5MEZnQ3pMaGtXZENhYnR4dlRjZTNtNjlQUWgza1E?oc=5",
+          "published": "Wed, 14 Oct 2026 13:07:37 GMT",
+          "source": "Seeking Alpha",
+          "keyword": "premium tea market trends"
+        },
+        {
+          "title": "This week in food: October deals, new tea flavors and restaurant updates - Interaksyon",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObFNMZHdCY0F0dmNtTkNXdFhoZ0N4WER3S3BscFVDOU92aGR5dGVGeUFyUnRnTUM4NU5hZUZPaVIzZXFZSzY3blZySTRUd2NaOUQ1MlI0d1VaUjcxTDdHbTFDYy1sSC1zSDhBellLakxkX3JSUGRGbnRfRFRzdl8ybzJkVVZjNVRuZ1NwTWRXUXVNRy1ndWpLOXM4SkZ4RHdNTjRxYXpHd3hNWnpvOG1pb2tXanc3bFNNNUVqdU0xU2hXY1BwU2pVRkFwX0t1Zw?oc=5",
+          "published": "Thu, 15 Oct 2026 03:40:13 GMT",
+          "source": "Interaksyon",
+          "keyword": "premium tea market trends"
+        },
+        {
+          "title": "Mortgage Rates Forecast For 2026: Experts Predict Whether Interest Rates Will Drop - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kMlJHRWhRY2owbnpsZWhWOHVVZFR1ZmM3NzhqTUVEVnpHR2xlMHp0QnR2eXFwV2wzQ2FMbXZTN3lTLUJ5OHgxdnk0S3Z2Q3hEQ2pEYW9xcWhrRktVS3B0RXB0NkdnM0hPMzBReG5neWZ1TTdvVWs4bWgxdWFNUkk?oc=5",
+          "published": "Wed, 14 Oct 2026 12:30:00 GMT",
+          "source": "Forbes",
+          "keyword": "premium tea market trends"
+        },
+        {
+          "title": "Foreign diplomats in Ningxia: A closer look at China's specialty industry - CGTN",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb09QczhWbTdaMkcxSUQ1MjgtRS1mUWJWMF91OTZGdElSZU9rWEEzWmZpUEhYbl8zVXpiOUdNcE91cFRfdlBmb3ljX2YyOExjMXVFSDdsekVWX3UtQUwxRy1wejlsdXc2TnFlemNlVk9zYjdyeDZlbDFuWTZPVlJKaGhKQlNadFg1MUx4OTVJV3JvUlAydVlSRG9jcFotUUJkUks5WEVnY1RGWkhNc2J6MF9oSnVoMUdydmc?oc=5",
+          "published": "Wed, 14 Oct 2026 06:27:03 GMT",
+          "source": "CGTN",
+          "keyword": "specialty tea industry"
+        },
+        {
+          "title": "KTDA, Eastern Produce lead Kenya tea classes awards - Sacco Review",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMko4V3JmRW9RWlJZRnQzUkpDMEJDZ0FsX2piNVZJYzVxWGZPdUJiMUFFaDluZkl0QWd5cDVhY2NQTUpSTXQ4UmJFTXRPRy1IZGlsQTh3dXFiaGNhQUtFRkp6cjZCb2lQTTNRNFkzUFlGbzMwc1EyRndCZUlOdHNQQUhYNA?oc=5",
+          "published": "Wed, 14 Oct 2026 12:27:43 GMT",
+          "source": "Sacco Review",
+          "keyword": "specialty tea industry"
+        },
+        {
+          "title": "Luxmi Estates And Makaibari Recognised At The Bean & Leaf Asia Awards 2026 - menafn",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLXBXZnk2Nng3NnMzQkVyZVlCc09HQzJROURLYkkwakp0ZGFDQWZBa0xhWTZlMXhOZVNiNnNSZDd4bWNRMHJzQWNmbWgtRzNvZFNTMkFHRzhfMzM5eTM4azhYUXMxSHk4alBld2ttUU85WWlzU3d3a0lMRVM4UHFNb1hieENyUjhXNjQ3a3o4dnBsV0VZbEx2TEgwb0tBWkU2cS1NWA?oc=5",
+          "published": "Thu, 15 Oct 2026 07:03:15 GMT",
+          "source": "menafn",
+          "keyword": "specialty tea industry"
+        },
+        {
+          "title": "Supplier Spotlight: Woods Foodservice - The Caterer",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOajZTaFJ0c2pCUjV3QmZ2X2t6b1NZMWdkSGFOUzN4UlZ0aWZZblQwN1dJdnBkaFpld0xNbXZCb3RXWTBPYk1Jc0FSbDJac1dVdXk2SlpIbHBFa3hNLVg2MEpIYUI4R1NjTmliM2JCMHpwaEh4aTVTVVA1R0pwWWtLT3NRbTFpd3MtOUMw?oc=5",
+          "published": "Thu, 15 Oct 2026 05:56:18 GMT",
+          "source": "The Caterer",
+          "keyword": "tea hospitality supply"
+        },
+        {
+          "title": "Japan tea enthusiast from Bahrain wins top honour - Gulf Daily News (Bahrain)",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUUhnUFpoSDE5QTVpRW1kczlSTTJSVl82dEFKSmRuN3lRcC1fbW9ydjNTaHNVU2o0UnNYb0xXMkNPVHZXZk9Mc3VzMTZ5bVVvNjV2STFXWW9pdVhEQkQwSHdPaXdWeXZ2cV9yOHdaMWFhUGl3WHJ0NTVkdjBjVFFrSUFiQ3ZyTjh6bkVtWkd6LXBWeHdoSVE?oc=5",
+          "published": "Wed, 14 Oct 2026 21:00:32 GMT",
+          "source": "Gulf Daily News (Bahrain)",
+          "keyword": "tea hospitality supply"
+        },
+        {
+          "title": "Five ways to win The Caterer’s Supplier Awards - The Caterer",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYk5XTXphN05mR0hjV3BFN1NkYXdCSnJCZkV6NFEyUEVMdFNnWFUtVEhLNGt3dXhhMzhhWWNpS0NHclVjVDdyN0xPYV9DUkdRckMyRlpGTTBJWnVJRUpQSlhWS0dWMC1tMzY5d3BLYnpzTXFJZVlBLVpMRTFQbDFZOGpLNXRwZUlHNURRRE9uVXNQejMwbVFB?oc=5",
+          "published": "Wed, 14 Oct 2026 06:28:33 GMT",
+          "source": "The Caterer",
+          "keyword": "tea hospitality supply"
+        }
+      ],
+      "competitor_news": [
+        {
+          "title": "Halloween Tea at the Williamsburg Inn: A Spooky Getaway to Colonial Williamsburg - Alexandria Living Magazine",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1h3YTAwRkxad3R3aHBfOTh5blFXM0t6eE04XzhVQS1tWktUZUk2WU96Uy1TX1RtWDYzOXd1Uk45NEpfMFFrVGtqaVlEVXNYWE42OEtRalpWOFEtOG9LeEw2WkRfU0xtaGJteVpDQjItUHFhOERYZlRjVWE0OC1FMTM3Ym9LajlFeGtXOFVUc2NOSWJpeWcwRms2VWpFcS1TTGhhRzU2YTRqTkpI?oc=5",
+          "published": "Tue, 13 Oct 2026 19:44:47 GMT",
+          "source": "Alexandria Living Magazine",
+          "competitor": "Harney & Sons"
+        },
+        {
+          "title": "Dr. Rodney Wayne Harney - Decatur Daily",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUk9FT3plOS1kRGx1YUlFOF92NlRuTFhlOHZ1WnBPTzlMUkE5T1RNcllRRTViZm50cW53N1BKOWY2aXJ4ZEdNci1zVWl3ZGgzdEwyb2V2cDJnRWVydGF0dFdxM3FoWlFBX054QlRfZjdBcmJsVDN6OXNMeDFMVGw4cVBieVVhekhmTTI3ZklscDNOYjNkMHFwZmZ5XzdhNno5bE9hbWlxS0hoeVpxZWJyWjBR?oc=5",
+          "published": "Wed, 14 Oct 2026 05:00:00 GMT",
+          "source": "Decatur Daily",
+          "competitor": "Harney & Sons"
+        },
+        {
+          "title": "BERKSHIRE FOOD NEWS: 'Feast from the Fields' Brings Community Together to Celebrate Local Farmers - The Berkshire Edge",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZXFmTVJOOTc2Z0J4S05LVm1NOG4xaFA3d3pUS0RqZm00djI5dk81c1pTOGpTc2EwQmp6S0JCWjV3Zm92RFQxU25VeHdaTF9xcmppSHlBNUJhUlJ5T3UzaEhhQzVQYkpRazlGVlpWa0VIVmNodFZXZk5KSTFUMFBVVVp1Zzk3NnlkQkFTUHdNUkZoamdDUm9EU2xHVm5EYzdMNmwxSEZkbw?oc=5",
+          "published": "Wed, 14 Oct 2026 08:29:04 GMT",
+          "source": "The Berkshire Edge",
+          "competitor": "Harney & Sons"
+        },
+        {
+          "title": "What Is Behind DAVIDsTEA's (TSXV:DTEA) Comeback on the TSXV? - Kalkine Media",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWHpPdGIyT0RaOEdZS0o2UU9MYTgyUXo5OTdScEQ4SUIyLTlEVWV6aUNvWk5QZjZHVXNydmhVTVYtY3pJVGpjSGpibFNldjdVYWNJbnN5b0ZJb3JGakgtTURwWl9MZHpfU2dyOWlDLVhETUZ1b0lUZE9iY09iSlRua0I2UFhNZmp6b0h2OHBESVR6QjkyMlI2aG40ZXpWYUxE?oc=5",
+          "published": "Tue, 13 Oct 2026 16:55:00 GMT",
+          "source": "Kalkine Media",
+          "competitor": "DAVIDs TEA"
+        },
+        {
+          "title": "The Curator: The 2026 holiday advent calendars worth buying now before they sell out - National - Global News",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pSzhzdGg0RXdTVUhsT3N6Y1kyVmFfaHVwcWg3RmJRRVcwXzlCeWRVT3h3Wi1JeG5BU2NEZ0hHZ2FmQ0lPejV6cmlOdEZ1cFJsYlZTeDFwX0hocUhDZUYxcjY5UENLaWlHbXl2ZTdUaWV6OTBwdTBfZ2NrNS0yZw?oc=5",
+          "published": "Wed, 14 Oct 2026 14:30:00 GMT",
+          "source": "Global News",
+          "competitor": "DAVIDs TEA"
+        },
+        {
+          "title": "'I wouldn't turn up if you had a paper napkin': As Victoria Beckham shares her hosting tips, a former royal butler rates just how 'posh' her rules are - and David's 'incredibly rude' habit - Daily Mail",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOUGxqLUVBYzFia0NnMEU0RzlJQU16cHBXcVdFM01COGl1cnBxUVNNakllNk0zLUZibE9nZC1RQ3B5OFVobExab0kyY1k4SUoxRmRTbnVoMTRsOHFHcG1NYzVzbGRDMXNUdERVSnBaRTg4NkVXNk1QYndXNEJweUV3TmVMVjQ0X3NLSTRjVVFxWUxsZmlKb2p0RnVNOEJHTGV0c2c1Yzl0SnpXZTlnX2I4U09oYTViaHYxVlZTSlhjMTFlakI5YjBrR094M2N0bGs0d2ZVOXA1VjIxNWVtcjdTVkh4RzIyU0xwNmRJLVN1TVdzaG9EcXpnNGNDVkJ0QkxRNjNHUWhWSExha0RENmVDTE5UQW5JZWgzc0Jha0JLTGFVLTjSAagCQVVfeXFMT3lPak1jaXF5XzQ5TFpzSXgzUF83cUtoR1RQQThILWN2clhma1RJRGNOZng3dFpnY25ROXNpbTg3UzRCQzBjNU85LUhhZGlySWxKUFlhSVVFQzNqbzdDemJDcW9KSlRiYVU4X1k1S1NjOWozbk1VWnNuNGVQVnRjT1ZlSHdUM1h4SlhHUnY1eEQ5ZVRqVDJpUHFwa1kxRV9jcUhoMEZFdkw2QVJmZkcxUXVRNVJOb3FKUnU5R3M3RXg2RThON2c0QjFIRHFDSW41NHg0S2Y4UHhRUi15VlZFazA0U3ZYbWtXb3J6bXVMUm9lMTBxRjFuT0FBR1h1eWNUajNpOW9JODdWcW5aa3BmTVJzdW5PREhpQWxCWlV3RUxaNWVZQlh3dW4?oc=5",
+          "published": "Tue, 13 Oct 2026 10:44:45 GMT",
+          "source": "Daily Mail",
+          "competitor": "DAVIDs TEA"
+        },
+        {
+          "title": "Rishi Sunak’s Delhi Trip Has Chaat Stop With MIL Sudha Murty At Bengali Sweet House; What They Ate - Curly Tales",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdk9qM2pycVllYUtva3lVZWdIcDd3Q1JCeXZhbnR6dVA5VWR5NU1oSlZpNmZyb01qMXRhMkVwRkFZWnVTLVBsbU9BYzI2Q2xhQi1CVDRvLTlXNVV4eFNwRTZJdHJ3cTZZQWI3dFZ3YW5KNmhRZTByS1RXWFFQNjNxYXNmeUJpbEVOT2FpRG9zRGdpOVhqZGZUazU2UXNJWGJ3TlF4bzRGNU4tR2JzdXhZOGRvVUVMY3NiWmp1dUhWSDVwRENPOXIyTElkONIB0AFBVV95cUxPOTlTc0JxcW1RcUstM2g3V19nUGZIeUxsLVlFdm1NQnZGbU5rWk1wZUEwVjdzUmVJVi1WcFdXRWpHUWpGSF9jN1lhUU5reERXb1RaejFQWC1ucVhpX0JySERLQmdVQTNNaW5UaWVNeFRzUXFNUTNRZkJabEVxZzVuV3BUckhmWFJiNTZtNWRrNTlscnZ4QnV5TVhqVXpfUjl2cTlKZGtOMnYxS2RHeDJGemFUN0dLZG5LWnVRSWo5RHdMVjZ4aVl3aVh4dmVocm5V?oc=5",
+          "published": "Thu, 15 Oct 2026 08:25:53 GMT",
+          "source": "Curly Tales",
+          "competitor": "Rishi Tea"
+        },
+        {
+          "title": "BevNET Live LA 2026: Early Registration Savings End Friday, Oct. 23 - BevNET.com",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVnZHOS1UZTViUUdkYWU5RzcyMUZPYTRfSE9xa1dKcng4bG5KZFczNThxcHhtWXp2TXZkc0puREh5c0ZpWHZYYkljN3EyUEVwVXFGQkpHWjNlSlRRRkV6TTUxS1RXZE1vVWh4RHF5dThkSkhiZHJocHpyajlwa2J4ZE9ZQzhnaTJib0ZSTklQc21KX1pjT3RHa3o3X1MwVWkxRVFXMnc3UjZlSHpIaGNaYThNQjZTUGhuZ2c?oc=5",
+          "published": "Tue, 13 Oct 2026 17:48:34 GMT",
+          "source": "BevNET.com",
+          "competitor": "Rishi Tea"
+        }
+      ],
+      "platform_updates": [
+        {
+          "title": "HubSpot CRM Review and Pricing in 2026 - Business.com",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XLVpENUMtLWt6UGdGYVR2SE05ZzVwUFVOcEtBXzhWbGpUeGlmYlZiS3JZbnF6QzZlSXAwOHlabUlxU2F3c2NrTzU2Q3RLYmhDYlB4UDVFTG4?oc=5",
+          "published": "Wed, 07 Oct 2026 07:00:00 GMT",
+          "source": "Business.com",
+          "platform": "hubspot"
+        },
+        {
+          "title": "HubSpot CRM Review: Features, Pros & Cons - TechRepublic",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhUEZGbmtZc1d4MmdVeE9sT0hmRmJhOFpxeDhRUHBQdnpKaUlBOE1STmVDRmV6U3RUYVNVTFg3UHJhSTJhenBGaEZoWDhPZFdzTWZPUndkbDlLV3d0OXhrdHNn?oc=5",
+          "published": "Tue, 08 Sep 2026 07:00:00 GMT",
+          "source": "TechRepublic",
+          "platform": "hubspot"
+        },
+        {
+          "title": "HubSpot (HUBS) Unveils Breeze Assistant And An Autonomous Smart CRM - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWjZOS3BBaVNvTUw2a21tajZuSVRwcXhpZ0ZQdEZ0eXRsdVhaVURoM2k4WVB3UURHNWw2S19LaXJ0LVp6cEpKa0VPdlNVU0xleWhwTXE0SnpqcWpUVnN3QkNKdXctMVltb2hsbS1GYkJQVFpiV05COUNVZGNDUk5wVVRXTmpOb19mOS0taEZ5SkdHWmZVaG5XZFZuM2NxVU1sTmxR?oc=5",
+          "published": "Thu, 17 Sep 2026 07:00:00 GMT",
+          "source": "Yahoo Finance",
+          "platform": "hubspot"
+        }
+      ],
+      "ai_summary": null
+    }
+  ]
+}
