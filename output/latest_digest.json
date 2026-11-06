@@ -1,61 +1,32 @@
 {
-  "date": "2026-11-05",
-  "generated_at": "2026-11-05T12:58:19.257373",
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T12:45:49.114222",
   "clients": [
     {
       "client": "Alma",
       "vertical": "Health & Wellness / Suplementos naturales",
       "market": "Spain",
-      "industry_news": [
-        {
-          "title": "Gas natural en Perú: conexiones llegan a 2,6 millones, pero nuevos usuarios conectados cayeron en 2025 - Infobae",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNYmJnbDZrRUEtT203OGRub2VaM1BPZmwwLTJVUzVVRGUxb0ZnTTFNZDNqMTBoXzhtdUlnQ05LVl9ubDBfWnJnSlphMlh6ZlMxLU8xby1PSGZlTFJvTG9LYzBiQkpjZXNTeUhscWx0QTNRV0lnZFhwSmYyOGYzN1Y0TWJFQlp4RS1CQzhDMWlaT2JoVWVCZnJuS3N1UG44Q0tNY2w1OC1TQ1RiY2Vhb2lCQjBEX21NaGI2WU5PWExGMjBlLWhQblRVUFdDQnNfeUdkdmJpWXFfekRrTUtjVjhsV0JoNjR2dTVaejEyR3ZGeFotOVBnRHZkb3RPLW51S1BV0gGAAkFVX3lxTE1iYmdsNmtFQS1PbTc4ZG5vZVozUE9mbDAtMlVTNVVEZTFvRmdNMU1kM2oxMGhfOG11SWdDTktWX25sMF9acmdKWmEyWHpmUzEtTzFvLU9IZmVMUm9Mb0tjMGJCSmNlc1N5SGxxbHRBM1FXSWdkWHBKZjI4ZjM3VjRNYkVCWnhFLUJDOEMxaVpPYmhVZUJmcm5Lc3VQbjhDS01jbDU4LVNDVGJjZWFvaUJCMERfbU1oYjZZTk9YTEYyMGUtaFBuVFVQV0NCc195R2R2YmlZcV96RGtNS2NWOGxXQmg2NHZ1NVp6MTJHdkZ4Wi05UGdEdmRvdE8tbnVLUFU?oc=5",
-          "published": "Wed, 04 Nov 2026 21:13:00 GMT",
-          "source": "Infobae",
-          "keyword": "nutrición deportiva natural España"
-        }
-      ],
+      "industry_news": [],
       "competitor_news": [
         {
-          "title": "The best greens powders for energy, skin and gut health - Harper's BAZAAR",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2cDNId2xhWUNNRWZFWWZoa2ZQV3p0UURTM1ZaNUlTd0pmLTNrR0xQWjZoWFRldmI0QmVtVEt4NXByWmJSa2xqUkhaMlhZaFBSRVNTZWkwY1FaTFhCUUFuaVRiS3hJcVhuTTBHZkVfekhzMWFodUNHWnJOVEFxdw?oc=5",
-          "published": "Thu, 05 Nov 2026 10:09:03 GMT",
-          "source": "Harper's BAZAAR",
-          "competitor": "Athletic Greens"
-        },
-        {
-          "title": "Evan Norris Named As Big Green’s Director of Major Gifts - Marshall University Athletics",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdVUtWWFta25YamtQcjUxNlBqcHQxczE5ZzB0eGo2ZkdfQjl3RDZ0dnNfZC1fd3c3a1pjYTd3dFBUZWpKWnBxaGtKN1BGSVE0Sm5NQzY5NmlENUN5WXRVeTNnTGZOUXp1dzJXSk4zNy15S3pUN1NVS2JQWmlrYVFmRnExRW1HYmpBNTUwMDZiYzdHMTNmRmdWclF4SWl3OUxNQ3puYmJzZ19nUHRuQkdna09LcG9rVTRpeUF2VzJ0bk9xUQ?oc=5",
-          "published": "Tue, 03 Nov 2026 23:19:17 GMT",
-          "source": "Marshall University Athletics",
-          "competitor": "Athletic Greens"
-        },
-        {
-          "title": "How Crying Between 7 To 10 PM Can Help You Lose Weight Ray Dalio (CekcCrbSTV) - Unisba Media",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeV82WU5JZTROZDZDdENONk5XNDAzaUFCaTYyZzkwZjZpY1dMdHE5UHVGeUsxRm10RjByaGdpcnFLc1JlZG5qeWtJTTBjaEtKckJKLWdhRzQ5NFkyQy1neGRPNkdXR1JnM3cwaXNEZXZhUmpuS0N5NkdaY3hFOHhvU3BR?oc=5",
-          "published": "Tue, 03 Nov 2026 21:41:23 GMT",
-          "source": "Unisba Media",
-          "competitor": "Organifi"
-        },
-        {
-          "title": "The Rams must trade for a wide receiver. Their Super Bowl hopes depend on it - The Athletic - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdkk1TTFhYWVrRWpmN3d4RlVBOTQxSjFUbzlhMW91WmQ0Z1FpWENqZ3JoM1pRa2NXSHYzSlYxQTV1eWh3MUh0dkxDckhOTXRMUGt2U0hIcTNReTN5R3VlUVVCWmo3aUwwbUdlRTBZd1ZvYVptYmREWWNnQm5TR0U2aXpXLV9LUnJwOWJ1aXJFd2JudFF0?oc=5",
-          "published": "Wed, 04 Nov 2026 18:11:36 GMT",
-          "source": "The New York Times",
+          "title": "Before Jay-Z’s Super Bowl LXI debut, here are the halftime shows worth revisiting - Daily Bruin",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONFFJOFFXRHdmS1oyNTd4eWhxVjRfbFBLN1VhelZvWHBKbmFTTWVOVW5acjVlVi1QQXZHTHZZZ2tVWDVrUkRzcGtsUUdXLUY3N2pzRE9DZzE2U0NWUklwQ1pzVnp3MWtxV2tDUTBiVlFQa0xtTEZ3T243QjRxdHlLb0NORGpSaFVGTEduM0ljcUFlRl9SdmdaYVgwQmk5Zzl1cjRYMnZfRkpiRHhScFdMTUV3WQ?oc=5",
+          "published": "Fri, 06 Nov 2026 05:39:00 GMT",
+          "source": "Daily Bruin",
           "competitor": "Your Super"
         },
         {
-          "title": "11 Best Airbnbs Near SoFi Stadium to Make the Most of Your Super Bowl Weekend - Condé Nast Traveler",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SZXd3SjFyd1FjNkdWOFJqOU50cGo0UndYNW9EbDhlVW9kV080Y1ZSSnVHVHRpMVVnbkhQajdWMWN0dmFIR1RWS2taY2FwLXRUWnhscHRxaTItNUQ0Mmp6eFExWWVQX05YeGtIWlNfTUNYVkk?oc=5",
-          "published": "Tue, 03 Nov 2026 15:00:00 GMT",
-          "source": "Condé Nast Traveler",
+          "title": "How Georgetown Helped Jake DeCicco Launch Super Coffee - Georgetown University",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UR0JvT1R0M19FQWhiLWQyX3AxYXE4Q3pMQ19nWG1yVlI2LXZzT3pqcjNsWEdjVkRwXzNSVEVabjA0MjVkakVIaW91YmE5NlAwUzFGaEZlZDN6bnZ1Zy1Fc1dnVnZQQTZON2c?oc=5",
+          "published": "Thu, 05 Nov 2026 15:31:44 GMT",
+          "source": "Georgetown University",
           "competitor": "Your Super"
         },
         {
-          "title": "Your Guide to Super Rugby Pacific - Watch Live and Free on RugbyPass TV - Major League Rugby",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMGZMTjRockVtQzg4aXhGeHhpZF90WXo2cTlHU1hGdGNUbk9uWkxwOEQ1T0phekJJVkVqY0NsX3J4c0l2UHQxYnNYaTdNSjVmRkpybVZXYmZrZGJLekowNm1zX2x6d3BQT0lYdkJXUEJlSEcxZWlYbG1JNTEtc3pRZ3JBdEdoMHllVGg3QnUxVE1DcGpYelNwYmo0Nm1yaVd4RlA1dFdycw?oc=5",
-          "published": "Tue, 03 Nov 2026 19:48:05 GMT",
-          "source": "Major League Rugby",
+          "title": "Marshfield Super Senior knits for her community - WCAX",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZElkT3MzWmE1dEU0OTZpN05TWTgyaVByZXduOUp4cDVKcTRRRzZVWERvaWNrdGpSdm5JVTFWYmVWeDVWRWx0UXRDR3VkdzZ6aDdGSWZSZk5CRGJBUmJ0N1E3bmdGLTFGM1lUS3R3bzl3bl9xNVBtajJPUVB1RVgzTzRB0gGWAUFVX3lxTE9TTFU5cTFaVnhHdW12TGJtaUhDR0Y0aTZlYm9lTmQ3b2F3bFZlUTlVOXY1dFUxVWFzdmY4amM4QkE4S1BtRVVhcUR5d2xiN2h1V290M1NGbzNjV094cUtVUUFtLWZpTVVJeHJGVFZZdHZXT1pFZ2pzTVpNMlRxa1dSZmJCV3VFLWVYa3N6WWNNQS1WZ0NBUQ?oc=5",
+          "published": "Thu, 05 Nov 2026 17:29:00 GMT",
+          "source": "WCAX",
           "competitor": "Your Super"
         }
       ],
@@ -70,29 +41,29 @@
         {
           "title": "Bringing shopping into the future: The Fall '26 Edition for developers - Shopify",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrai1wTzRCcVIzRVRZR3hxbnZISXRMWDhDR2kwQWpHN1BIWWFYSDFCWC1HZ25YY09UWUtrTUJEYmRZVkVDYXNvRW1xWjdzaFF4SnZqUjFYcXdkc0poVFI4cXlHX2g?oc=5",
-          "published": "Wed, 28 Oct 2026 16:22:53 GMT",
+          "published": "Wed, 28 Oct 2026 07:00:00 GMT",
           "source": "Shopify",
           "platform": "shopify"
         },
         {
           "title": "Exponential: Shopify's Fall '26 Edition - Shopify",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pejhMVThGX1pwYnJ4dUpkU1plRUZiQlQ3X2NjYkhkTkJxVmlsVy1CVGd1M1lPV2s1T19LaHB0dUVsT0RuVVlnM0xrOTI0NElZeDEyMXRITV9UdkFHQzhSODMzQQ?oc=5",
-          "published": "Wed, 28 Oct 2026 16:22:53 GMT",
+          "published": "Wed, 28 Oct 2026 07:00:00 GMT",
           "source": "Shopify",
           "platform": "shopify"
         },
         {
-          "title": "Why AI is boosting Meta's ad business while hurting Google search - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96VFFxN2pKNFVfSEdGZVpaUmU0ZUVyWGE2VnEwUE5oZE41bmo5Z2dsTnM2alRKM1VaV0g5ZWcxb2FKcXZxdUZsWUktQzJVel9aelpQQ2FScE43X0RncXl2cnJDY2FjdVBYb3EzR1NySdIBdEFVX3lxTFAxZ0VWZ1FUemdMTjR6NktfMmpJUmYyY3BycTBTQ2tocUZLa2RoaEJZVFAyamFxU1ZwdmJOYjdOZ2xqVWMxbGNVLXNOSjBrUFVFQ0lwZ1ZQcGRXYmtjaERRaE10b3JEWDBnTG1IUHU3YTZZLVNa?oc=5",
-          "published": "Sun, 01 Nov 2026 12:00:01 GMT",
-          "source": "CNBC",
+          "title": "Oil companies spent over $2 million on Meta ads in the lead-up to the midterms - Yale Climate Connections",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON183UWtVRW9KLV8zVGQ0dEM3d0MzQjVjaU9QeHE2aXFQQndUdmxjNEdyN2drb0FYVjJ5aklPVnU2ZmJsYzRIclBzWjVnQ1VjQm92S2k5VFJxdUJ3ZW1yN2RkempMUGRyLUJGcm1rTWZxeGs0dmk0UXc3M0xhOEM3YkVrN2l2bENzLXBReVZQQm94ZUVmUUJQZWFvS29DbG1FdDg0dk1oNldpYTQyVV93ZXYxUTVYQWlOR2dpTXdn?oc=5",
+          "published": "Thu, 05 Nov 2026 12:00:00 GMT",
+          "source": "Yale Climate Connections",
           "platform": "meta_ads"
         },
         {
-          "title": "Meta's API v27 may add catalog products to new ads by default - PPC Land",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaDNQN0tSc0diN2NzOTFOcmtkcGpPbUp1S1FnVEtqX20tQ2VDUG15all3b2k5aURobVpPcWk4WmlGX2xmWFplcmRLQl9TMnpheDNNTHVPbTlIc2ROS29vYUFxZDBkc2RrczhiSFRSaVR1bVVhOVdnZHVQQUoxcUVqQU9PWVo?oc=5",
-          "published": "Wed, 04 Nov 2026 21:14:02 GMT",
-          "source": "PPC Land",
+          "title": "Meta adds new capabilities to Graph and Marketing API - Social Media Today",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUndOWnc5NFItT0pPdnNxa1d4LWFCZXJ2cnVBaDBQejdnVzlMS1J3LTYtR1ZiMVBocUhjajZyRExLa0F1SHpSbGNQSnE5Y0lBR2xiRW1oLTJhN3dva1lrSDAxZHpmTnJtRGJoekQ2UmZxQjVVRHBiNWVGN0xVREFmVjQ2NFlKWG5XdW12eUZzeEpkM0dnOEh1NHVGOGNPWC1H?oc=5",
+          "published": "Fri, 06 Nov 2026 06:41:51 GMT",
+          "source": "Social Media Today",
           "platform": "meta_ads"
         },
         {
@@ -110,17 +81,17 @@
           "platform": "google_ads"
         },
         {
+          "title": "Ads In Google AI Answers Concentrate In Apparel & Electronics - Search Engine Journal",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSWxRMW0wandzSXFiN25kUUU2X09PbHBQOXZ3Wi0xNGNPQWFtVml1UU15NkZDQlFsOXM5Smg4djJjSlVZVE9OaWlZVFhqRjg1UGlJam1wN3BHRG5YckhGSnhDLVFNak5Ma3gzMHBUVTlHaXdXVjVrMHU5R0NGVnBXSk94Ti1hSGV5dDZEbEQ1cDJteGdscWc?oc=5",
+          "published": "Thu, 05 Nov 2026 15:15:08 GMT",
+          "source": "Search Engine Journal",
+          "platform": "google_ads"
+        },
+        {
           "title": "Google Ads PMax Campaigns May Filter Out Navigational & Brand Queries - Search Engine Roundtable",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XS2NPMGo4bkFKeG8wZXpUWTBsc2hZQzhOLTM3UnQ2WF8xRUxhSmNraG0zRU5pUjVZQ3NWR0RCeVpPTVFqaHVjMnVGcV8yRGVZZF9aYzV6TXRtcEtMUGZnLWNTTDlfZkdxVzlkS0JxNmhRN1ZxeXJnVw?oc=5",
           "published": "Tue, 03 Nov 2026 12:21:00 GMT",
           "source": "Search Engine Roundtable",
-          "platform": "google_ads"
-        },
-        {
-          "title": "EU study finds DMA has not opened Google, Meta and Amazon ad auction data - PPC Land",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN19VZHNFZTZnYTNPR0RVV0tVajN2S19WdkNwdjJoLWVjTUtMOVZVRElBeEN6NEttMmxyQk83TXNaOTZaMTduZktaYm9La2FURk55RWJmeUpyaEtZMTAxYWZVSnJ4Tjc4b3RUdXRQUkk0WmpCdVhfUXVlZnY4Q1V1NTdxOTV0VGZ2Q2JldUw5WTZvSTRp?oc=5",
-          "published": "Thu, 05 Nov 2026 05:14:13 GMT",
-          "source": "PPC Land",
           "platform": "google_ads"
         }
       ],
@@ -132,56 +103,63 @@
       "market": "Global",
       "industry_news": [
         {
-          "title": "Coffee Roaster Market Size Set to Reach $3.63 Billion by 2031 - openPR.com",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeXoyMjJLc3M1UVhOMFBJazVob1d1ZV91MEtKLXdybzJ5eUJLY3JoTS1lTzlEbndaTzY0cGtrSkZiTVFjdmhtY0FEVlgtcGZaU3htUXA5R1FKbk9VNUJ4djdFaTh2V3p1WFNaX0x3cEV4NXZqZTZWMk1xRFhHdEFQZ0g4LW41QmxfbmcxUnV1eUhPaERnbkFuRkdFZHk?oc=5",
-          "published": "Wed, 04 Nov 2026 22:48:06 GMT",
-          "source": "openPR.com",
-          "keyword": "coffee roasting software"
-        },
-        {
-          "title": "Voting is closed! Readers' Choice Awards Best Specialty Coffee Brands of 2026 - Reviewed",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LbXR4UnhwTzFMbDhvbXlyaGJLLUdZR1NwT2wxazk3NDl4R0txODByODZkV2pQamlSOUFYdzJFUnF6OW5kQXVpbE9VUDRab3pOQnp0c19oTlZCVnpyeGlUWVJoLTFOLWlfQmNGellKeGUyMG1CQlE?oc=5",
-          "published": "Thu, 05 Nov 2026 04:00:39 GMT",
-          "source": "Reviewed",
+          "title": "How to Caffeinate at DEN - Denver International Airport",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tOWlDRjlDNEhwZU91azFkVk9PeXUwOTFpM2V0cG16UEdDSlRKWWxCQ2xnS1dMR0JFU2VsWnRtWV9aSzEwOHNFZFd1S3NyaUxOYV9GTW4zS0NfTE5PRWNuOHY4Mnd4cmM?oc=5",
+          "published": "Thu, 05 Nov 2026 19:42:59 GMT",
+          "source": "Denver International Airport",
           "keyword": "specialty coffee technology"
         },
         {
-          "title": "Terroir at scale: How Flavourtech is preserving origin character through processing - Global Coffee Report",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaHp5SjVKSDk3RURYMEpsdGJWeGswYnpvN1VpMW9MNGU5dHBrWk9uYWFvRU1MZFZXQWE3NGdZX0NQazVfdHpueGo1TFc3dmYwXzJ4ZUJJRGo1UWtSbWE0VWUzaXlmX2pEQTdXeWpWZWxTSXZtZVZSSnJXYk1RVGRCM2xFa3NmUmRObXVEUHEtTFR1OW8zaEZFTFNXOVVrRmFzUEsxV2RwTGFSZw?oc=5",
-          "published": "Thu, 05 Nov 2026 02:25:52 GMT",
-          "source": "Global Coffee Report",
-          "keyword": "specialty coffee technology"
-        },
-        {
-          "title": "Save on Tech and Home Essentials With These 55 Early Black Friday Deals at Best Buy - CNET",
+          "title": "55+ Early Black Friday Deals at Best Buy for You To Save on Tech and Home Essentials - CNET",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vcEg2bWY0OHR5RU9mTFlEUno4SDlybWJqcEVNNUZsWTBFM2g3OEI4SzZJeWRxVTY2UDh1T0VaeGVFTmpia1R3TzRSMUhzb0dpODJjOEVxemF3U1B0eXZDV01hOGlsbjJiNjF1NlRQZ1VWNnU4dWxzdkpGcw?oc=5",
-          "published": "Thu, 05 Nov 2026 11:13:00 GMT",
+          "published": "Fri, 06 Nov 2026 09:50:00 GMT",
           "source": "CNET",
           "keyword": "specialty coffee technology"
         },
         {
-          "title": "PepsiCo: Stronger supply chains start on the farm - Food Manufacture",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPdS1sTVk5QU11R0Q5Qjl2ZU5uWWF3UzlVQUFfSk1JODZSclpESEtaaEJqWDd1d3Q4N0F0TmdEc2pqc1BVU00xc3VMMzZXcUQzTklTYlRJeW16TGcxVmZSTXpoaTZWVG41Tk9Zc3BNOTZaQXprdlVGZlFpLVp1V0JtSl9Xc1ZSaWRyOU05QTJpUGRoMXB2S2duQWdQMDRSWUMxV1hWZ2I1eDBja3YtcU0zTU5RbmtETlVQcWs1ZXYxdXU0bjdnTkVBemFSa1ZsOXJXZF83ZlF3WU5WY2FBQzlVMjNJSjNvTThscGdoQXBkTEozSVJzZnFQXzdMcUhERDFRaWs2dUFR?oc=5",
-          "published": "Thu, 05 Nov 2026 07:00:00 GMT",
-          "source": "Food Manufacture",
+          "title": "lavazza tablì wins designboom special prize third place at seoul design award - Designboom",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQi10UHZuNmNNU1dfa2hqa0EzUGh3SnZGbGF1ZFRPQmZkb19sVkYwQUExZnhRMmo4cTBkdF9LNXFSU2dhZVU4a3BURU5JN0RORkc4UEtfRFNhREVYQmZlZE9tMktkY194bXduRTRyRzlIbU5BLUJBYURRMVYtQUxncThkeG1nU2dyRHpZcFhsMDgxa3F0OWtQWmF0NTdCNFlYaUNYVHdFaldpLUNrVHgyWURB?oc=5",
+          "published": "Fri, 06 Nov 2026 08:48:56 GMT",
+          "source": "Designboom",
+          "keyword": "specialty coffee technology"
+        },
+        {
+          "title": "Beverage Cups Market Outlook to 2035 - IndexBox",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ubXFtLXgzMG91alh4R0d6c0JYRDJRWFdmQllHWFVQeE5OZE9UTTFvZHZjOG9ZMHd4a2szZU9LMnlubXFuR1ZfbVRiNC1XbUlBOXY0U0Q0X1ZVeU9ONkhBOW93SGl5TVJhTmx5TDUyak9heXFz?oc=5",
+          "published": "Fri, 06 Nov 2026 04:36:04 GMT",
+          "source": "IndexBox",
           "keyword": "coffee supply chain digital"
         },
         {
-          "title": "Digital Health Coffee Time Briefing ☕ - Home | Digital Health",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQkNzX1U5ZFNINDYyUnpqOGRXQXBJdFlFaF9fZGgzM3VtTl9Tc0JkYUpjMXRPZVpEZWxGeFZCXzBCamxIOHNGMktmZXNTejF0MGpSWVBuR0l4YnhxdXBUTy1fYVB5TjRkRm1XQWgxMDQtejRHWlh1YkptVS12Smp2SFhnSUJXVWdFQW9TeTRYZWVWdw?oc=5",
-          "published": "Thu, 05 Nov 2026 11:31:56 GMT",
-          "source": "Home | Digital Health",
+          "title": "Climate pressures mount on Vietnam's coffee sector - Vietnam Investment Review - VIR",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUGRDbDMybE9tSTRaQ1VOd0dJaVByQ1hMdXJNaWxLSWJLRXlkQVozdEtOSFFsYnRHTDlvN1poNnJudjNpVi0xY3FKUzB4WU9SY2lURFdLRFBCM083NU9RZGtBeWF4QnpVaVBzWG5aNGZCZmROa3VMaEFqTFpFLVZXdmRyLWtZZms?oc=5",
+          "published": "Fri, 06 Nov 2026 04:55:10 GMT",
+          "source": "Vietnam Investment Review - VIR",
           "keyword": "coffee supply chain digital"
         },
         {
-          "title": "Coffee Roaster Market Size Set to Reach $3.63 Billion by 2031 Driven by On-Premise Roasting and Stricter Emissions Standards – Mordor Intelligence - StreetInsider",
-          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPVWRFYkFwSFc5VEE5YmcwWXo4WnhkWDVpRnNjbzFmcnBsd3h2NllTZGItUlQzRnZvTEV2NnpOcnppTWVZY3hjblY3OFR3VGhkUnRHOTc4cm9CcEpiOHl3M0dYTEUtemVLSTNjZXpyeFh3bHMzaGtMdERvMWYyejZMdVp2UXp1TmlOMXhnZ2M1S0ZuNmFXNmdCVnV0VEZhb1VEcTdOc1k3SWc3MFJXZmJmZ1pJeGVJQTdkTTJSc0ZaV3pSRzNzVmJZa3NKVWMxbFZQX0YxZFBRb0hZODBWeDV0NFBRdm5qUGFIaUgwZUZFMi00a2VSc092MFotck12NXRiZ0FBZHo2dWFjRDh6NGYydzZlcXh5ZGktUEtEdXNfTXFjWGtjelJ5NEN2X2pjNFhGRlE?oc=5",
-          "published": "Wed, 04 Nov 2026 22:50:35 GMT",
-          "source": "StreetInsider",
+          "title": "Turmoil Continues in the Strait of Hormuz - STiR Coffee and Tea Magazine",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU216bW9BdXNlS0Rwck1wbGxOTUZSWHItTTA1Vm1hZlJSS1d3X0ZDeHh5OVVlbVB2ZXVRa0xrS2ZWT1hIby1ydlZyc1prQ203enhUZFVTQUZqejZMcDQzRDFDck56NGxPamxqSDNRTjVSZ1BzVTJFYlN6anV5WWN3U1dQM0RISk9IeWN4dzlCUQ?oc=5",
+          "published": "Fri, 06 Nov 2026 03:21:46 GMT",
+          "source": "STiR Coffee and Tea Magazine",
           "keyword": "coffee supply chain digital"
         }
       ],
       "competitor_news": [
+        {
+          "title": "Industrial Coffee Roasters: Diedrich Swaps Infrared Burners for the DR-140 Roaster - Trend Hunter",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qMUZPV24wNnBuLVN6TVdKY2ZqQzFQLXpiSUt2SmJDaG9TWkNQaXhRbG8xZHJ4ODFKczBUX2ZaNDFMODQ0RzFxRFg2bWMzRVkteC1NNE1QdGNOOE92THJZeEs2U2ZOYmRlSWhGcUJB?oc=5",
+          "published": "Wed, 04 Nov 2026 17:54:42 GMT",
+          "source": "Trend Hunter",
+          "competitor": "Artisan Roasting Software"
+        },
+        {
+          "title": "$1.4M+ in student scholarships celebrated at Shidler College annual event - University of Hawaii System",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX2xjTWtNVHhlUnR0bTdlUUZLSFJxUVVlYjc2LUVBQVJyVTFjLVdJSVRuX1N4bUYxWHpWWDhNcEtETFh2QjZPbE9vLWwtSjhCbTZpQTBXNG1iOFpHS2NQSlZZOUVSNTEyMlBFQU5YVXYtZGJ3ZVMxaFpQdEtjcFVpcWdR?oc=5",
+          "published": "Thu, 05 Nov 2026 18:40:04 GMT",
+          "source": "University of Hawaii System",
+          "competitor": "Ikawa"
+        },
         {
           "title": "Gukura u Rwanda muri AGOA: Ese ni igihombo cy’ubukungu cyangwa ikindi kizamini cy’ubwigenge bwa Afurika? - KigaliToday",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQU1pROElucjhwWTNKWDR3MG9KZmJjSXNvVXdzREZORHF0M214YVRBelNmdVJSUXZmZUstUmVtVFdvc1NIbFh6LWVpTElCbDRqREJiM2lWM3JPelk5QzBFRnZVZG0tVnJ0U1VwX0VNTFBWWWJxbXhTNHdFc2RkZmdOd182YzdRZ1J4V2ZqS2hiRi1kQW92X0lsSURQZUh6dHhtU3d2b0l4UmlSZlh3R3JUNjlmSzR5b1Y2eVlSMVh1Q2NtZ1lVT2h2OUJHcTFnZnM3NVJpOGRKNkdGME8wdUVQSFBJeVNhZjRDNVZOOG53?oc=5",
@@ -199,17 +177,17 @@
           "platform": "google_ads"
         },
         {
+          "title": "Ads In Google AI Answers Concentrate In Apparel & Electronics - Search Engine Journal",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSWxRMW0wandzSXFiN25kUUU2X09PbHBQOXZ3Wi0xNGNPQWFtVml1UU15NkZDQlFsOXM5Smg4djJjSlVZVE9OaWlZVFhqRjg1UGlJam1wN3BHRG5YckhGSnhDLVFNak5Ma3gzMHBUVTlHaXdXVjVrMHU5R0NGVnBXSk94Ti1hSGV5dDZEbEQ1cDJteGdscWc?oc=5",
+          "published": "Thu, 05 Nov 2026 15:15:08 GMT",
+          "source": "Search Engine Journal",
+          "platform": "google_ads"
+        },
+        {
           "title": "Google Ads PMax Campaigns May Filter Out Navigational & Brand Queries - Search Engine Roundtable",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XS2NPMGo4bkFKeG8wZXpUWTBsc2hZQzhOLTM3UnQ2WF8xRUxhSmNraG0zRU5pUjVZQ3NWR0RCeVpPTVFqaHVjMnVGcV8yRGVZZF9aYzV6TXRtcEtMUGZnLWNTTDlfZkdxVzlkS0JxNmhRN1ZxeXJnVw?oc=5",
           "published": "Tue, 03 Nov 2026 12:21:00 GMT",
           "source": "Search Engine Roundtable",
-          "platform": "google_ads"
-        },
-        {
-          "title": "EU study finds DMA has not opened Google, Meta and Amazon ad auction data - PPC Land",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN19VZHNFZTZnYTNPR0RVV0tVajN2S19WdkNwdjJoLWVjTUtMOVZVRElBeEN6NEttMmxyQk83TXNaOTZaMTduZktaYm9La2FURk55RWJmeUpyaEtZMTAxYWZVSnJ4Tjc4b3RUdXRQUkk0WmpCdVhfUXVlZnY4Q1V1NTdxOTV0VGZ2Q2JldUw5WTZvSTRp?oc=5",
-          "published": "Thu, 05 Nov 2026 05:14:13 GMT",
-          "source": "PPC Land",
           "platform": "google_ads"
         }
       ],
@@ -221,68 +199,75 @@
       "market": "US & Canada",
       "industry_news": [
         {
-          "title": "Leading All-in-One Business Operations Provider in Thailand, Settlr Global, Launches EOR, Company Incorporation and More at Bangkok Startup Association - USA Today",
-          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNRWJuV1hGeWxHOXVUVEJXQWF1T2RXUXBmN0lSS0Qxcm5HMlplbXFSMGZ5eXdlYlN6TEFaVDYyWVh1d1QtbWkyOXd2ZVJpeWVacVBMeVhEcXYyMzZOU254ZDh2WmxvLU1IOGxLQWlDRG5hdUdqMFJ0MFhYR3BpQkRfVjVYMHpOREFDRC1GM2FmNXlJUjU0dGV6TDg1UWlieTZZQXRZMEg2NTV2b0h6alh3U2otRUU1ZE0tbHdFME9TODh4dk41cHo5dzdFMEhtSURtTUdhMmtLUXVHaFM3TGljM20tNVd2UnFNN2tlcHhGbG9RQ1ZWZ0F0TDAzbGJnQlF0WjcxMHpHeFdzazlkYl9XbUVLaklxTi1JZEVvUV9aUWR6aE1xd0w4?oc=5",
-          "published": "Wed, 04 Nov 2026 22:05:09 GMT",
-          "source": "USA Today",
+          "title": "K-38 Consulting Publishes 2026 Guide to the Best Fractional CFOs for Medical Practices - FinancialContent",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYVZMcVFfNDFwN3BBZjF5Z0xKRFgtZ2d0WnY2U005TWxhempheXNfY3VLdDFlUUQybFB3S0pXcE5NUlVUUTZ6aUtMdVhFVTY2a3JVUmt1OGZQZnFRaUkwOWpqMmtfUjkxUkNaa1Y4ZmlKRmYtOXRGN0RuaVFMeFN2bDd5ZzRTcVhPRkxqeTFIRENsYVRmTnVwdEZodkxQRHAtbUh3U09wNFpFNXR2LWhUbThTYlJocU9qOEdydDM4UC1oSlpjUjJqc2hoTFZMUjIzMzBkRHVFRkJhaEY5bFVVSGtR?oc=5",
+          "published": "Thu, 05 Nov 2026 23:18:00 GMT",
+          "source": "FinancialContent",
           "keyword": "fractional CFO service"
         },
         {
-          "title": "Loyalty Juggernaut and On Point Loyalty Launch fidivio, the Loyalty Industry's First Integrated Financial Planning, Analysis and IFRS-Compliant Accounting Platform - Press Trust of India",
-          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOd1h5N3EwblFxaGhFWHFRdWVfbENzOWh6dFBZcjliOTlKQTlzc1V5UFVud1NldWRDY1hZT0ZXRmZZY0hiNWRmTXhrWW1fbUp2YjNfd0VTNXVDTVFrMFRPX3VqN1R2MklUOUNndkpMVF9FVTUyU1dVdVZENG42ZDlFVjU5Zl9sVjNSWld0enF2dW1mZWlpZUsxd2VNcksxekpVWTQzNnR4VzZIRjg5MXhjZldxWXN0a0JJYzdZMHV0djFla3d6ZTVGU0FweDA2dU4tdnhRaTlNb1gyMEF6TjhjVkxxWG8tSTE1TXRmeGNWQlNpVlJKZENIVkI0SDR3Q0NSRlVYLVJIMXhHUkVDQV92SFlLdWg0Y1pHTjI4Tll1TjdkZUZkNW9IaTZzdDZFcHp2?oc=5",
-          "published": "Thu, 05 Nov 2026 02:38:16 GMT",
-          "source": "Press Trust of India",
-          "keyword": "financial planning analysis SaaS"
+          "title": "The Price is Yikes - CFO Brew",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEbEdoT2NXa0tmc2ZDY2hlaHc1enlzQXhiOHdZLVZ2X2JXSXF6c2tpZ3lDOERKV0M4YWF5NmF4NjlWZng1MFBtVmQ4V2ZPWnUxbmh2U3lXWjVQRFRWd2c?oc=5",
+          "published": "Thu, 05 Nov 2026 20:57:18 GMT",
+          "source": "CFO Brew",
+          "keyword": "fractional CFO service"
         },
         {
-          "title": "How Does Objective Corporation(ASX:OCL) Plan to Sustain Growth After Delivering 22% SaaS Revenue Expansion in FY2026? - Kalkine",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOWJFb1pVMmFCWXFKd0xDUlNMZWc5NU5IUnBXRk5VRU0zWVZOeUVBX3ZmcGFpVnp6R0UwNnVsd3gtQTBUWWV0WWptZFl6Tmh4QlZ1SFh4ak8tUGpWRkpkQklOcEtwODVlOVhvMUFNdTA0NG96YWxscEJmNUJudE02UWh6UGtxbk9ERWlUdmdaR1E2d3RDWktWZWZtZ1M0eFpOdGMycXd3ajZiTUZtMUFPV0RjN3hibXI1Y0EyN0k1QmVWWk1HREtlbm1YenE4dFU2Z2FQUzd0UW91MWJMWmJnZTdUWGNRVV9YQm9XSmxYR1Q1M1k?oc=5",
-          "published": "Thu, 05 Nov 2026 05:59:00 GMT",
-          "source": "Kalkine",
+          "title": "K-38 Consulting Launches Year-End Financial Readiness Program - openPR.com",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZHROMnZxVVBjeGJvX21CUnp5TUFfcXN3YjZHbzV5aEhzMjJxc05pV01nX0c3MzlJY2ltNi1LVDJkTE15Y0lzdFpsY0VNVTBLeEpydGt2LVpYQ0hnSmF4VFVaRDFZYkNjUGRzTjkzNkNrSS01ekgwWUpsTWpQaVl2Y1QyVVhtOXBuX0FpNzlTWlN5d21RNEpnaE9oSFhjUQ?oc=5",
+          "published": "Thu, 05 Nov 2026 23:24:04 GMT",
+          "source": "openPR.com",
+          "keyword": "fractional CFO service"
+        },
+        {
+          "title": "Embedded Analytics Market Size & Share Report, 2026-2033 - Grand View Research",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWGxLaURsRDVMOG5QX2M4OXZlRkM0RW1RQ1I3aThnOWFNLUsyODVFWTBSM2kwMXVDb3lFd2JQTTlEMkpMQVI4UkV3Q0xqVkxuUmhKQzlVY3Jvd2J2N1VUczdqcWFGc0ZDVzlJcTg0aVZtR19RZGt5Sm51d2pMX1RQbDljUWpWWEZTWm85bA?oc=5",
+          "published": "Fri, 06 Nov 2026 07:29:55 GMT",
+          "source": "Grand View Research",
           "keyword": "financial planning analysis SaaS"
         }
       ],
       "competitor_news": [
         {
-          "title": "Global Market and Mosaic Night share cultures - The Echo News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdVdsWGNPUnZteHVjdnlnSDhsVUZPOElVNmZ4VW15aVctcG1zM2ZUWExiTmVwMHBmMG9QbXFidzR1aEc5c1JnR0lCMmlpc3dxV0dXTDdDVW80RVRJbUlFVHc3M2tYVGVSS0hLWXVGamdYLTFzRDZiZjNocUJCZUVwTWNfN0VRWGRoVktJMTVjLW9hMWs?oc=5",
-          "published": "Thu, 05 Nov 2026 05:24:15 GMT",
-          "source": "The Echo News",
+          "title": "Civil Air Patrol Collects 'Mosaic City' of Cloud Observations for PACE Satellite - Civil Air Patrol News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTlYzZ3VOempYZHZJN05TREU3dHFGajlMRGFhLXdNOWx6bVo0WWcxQlhzbkRrU1o5dk5ScFUzQ185bHRwSHVKRi1ISUtReFNpeE0zZ0RNQUZ3bzEzczd5cUdDbEs2THZLTTNRUFVWNUNQNC0tSEVNV1hrYkxtcEhiS1BnVncwQlhzUXlKVFh2clI4cXdVRU1JTmhURU4xQ0Q5TlQ4?oc=5",
+          "published": "Thu, 05 Nov 2026 21:26:35 GMT",
+          "source": "Civil Air Patrol News",
           "competitor": "Mosaic"
         },
         {
-          "title": "Willow Valley ceremony marks start of work on Mosaic high-rise in downtown Lancaster - LancasterOnline",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNY05VWDhqS3JPVXZsRGtLbmItOHNTWkQtMXJzcHBxcEF0MVZzMXdkWmN5bHQ5REJzRG9WWnpqUUdIVzItRVFLQVEwdDU2LTIxaHczdlJtOEhrMzlNNnRLUm5ZOGdyOWE3YzVfTGNybEZmU0habFphSjRjOC1KcEhhcVV6SHk3ZW1CVUFyWWZ4SUpoUjFuaXdER3N5WjUtelAyV3RyTERFbENFV09zeHFkVVRtWWNsSl9XUWVFTWF5RWNkTFU2RVpuVnhBcDUzbVU2N0kxVE1JR051OTBDVXZnVnN1SXQ1SFFtZE1nSXBNSVQ1SUNGbHpqeEFyMjFNdHlaNnZn?oc=5",
-          "published": "Wed, 04 Nov 2026 22:49:00 GMT",
-          "source": "LancasterOnline",
+          "title": "Mosaic Theater’s Youth Playwriting Contest - HillRag",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOWR4M1JKNVAtMmcwOFYtMUlrT0c0cDNCczdyRjc1RVFxNFRVM282bEdEaUZ5clozR05XNE5Pc3hhN2xsc1NaVDZGV0Y1YndwUXVfaWZ2aDlObjljRXdoTE01TlhJSEI4d2VSNFV4TWp5Z084R0ZfMnlYc2tyUS01SVppdw?oc=5",
+          "published": "Thu, 05 Nov 2026 21:20:22 GMT",
+          "source": "HillRag",
           "competitor": "Mosaic"
         },
         {
-          "title": "Are Wall Street Analysts Bullish on Mosaic Stock? - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUUctcGJHVTg4dVBORE1zLXQtc1Z1dXRBOEk4SFV2eVoyTGwwejItUjJnYTJlcGF1TzFlZ2llbjhSaVZCNFdGSklpQ2lQTEt4bEZ5N2QwSWNSTmdMTjl2SUZEY05kNENEY0lkYTJDRkFiMFQyTmczQ0F2NjQ2UlkzdXV0MDVCSkQyX1lwdVRHeTVLRENBQkM0?oc=5",
-          "published": "Thu, 05 Nov 2026 10:25:54 GMT",
-          "source": "Barchart.com",
+          "title": "Photo | Watsonville Brilliante mosaic installation shines above cyclist - Santa Cruz Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQktxNDBOZVFKT3NGMFJvbEwxVlhZNERyX3BoOU9UMmxCb2dZcDVSakxDUFBkaEtOWDhHbmo5T3ZRa3A5LXpIbTRaX3ZXVTNER0RBRjRCWEtMc01SdnF4ejFidXBEZE1ZdjRaai1qZ2piMElYd2Z0emQwdlE4NzFrM21HYzFxblpuclRTeHhZTHlJemo0RXZEaGVsV05lYlJaYVlUVVRoUHBMUFpBejgweUJCbDM3UQ?oc=5",
+          "published": "Fri, 06 Nov 2026 00:36:52 GMT",
+          "source": "Santa Cruz Sentinel",
           "competitor": "Mosaic"
         },
         {
-          "title": "Uranium cubes reveal why the German nuclear project failed - Ars Technica",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWUpQYm9LWHF0dmRsUFZBemRIZTBaaDJianVnaFJiaWh5NExpcHhMZ040NGZ0QmNpemJKMGlqUXdfS3dRbmUxNVR2NjI5ZnlKMTVlMlhPdUFsVk9PRUtMdkNRbXo3b0U0WDJreEwwOUNlSmxzcTV4WWY4clhsbms5MDhSbEtiNjdxWDRVSjlXQXltNnRqWkFzbktybi0ydUdK?oc=5",
-          "published": "Wed, 04 Nov 2026 21:56:29 GMT",
-          "source": "Ars Technica",
+          "title": "A Square Deal: Take 45% Off the Amazon Fire TV Cube With This Early Black Friday Deal - PCMag",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZWhrOG5nWC1xa3hyZU80Q0lZR0FLRmpJc1BiOUluV3lCQ2liVm9KazNGRC1NTXBRTjNFbTNiS1YxV2VvSE5lTHpMbnQ2NGJIdWMxZWxvUnF2a01SdGVGSE1lNFFQVXUyVldCR1huTm9uR3F1VDFQbWUyUzNsMmdPTEM4WUh1QkV2TVdQMzhySERKZw?oc=5",
+          "published": "Thu, 05 Nov 2026 21:25:13 GMT",
+          "source": "PCMag",
           "competitor": "Cube"
         },
         {
-          "title": "Mckenna Grace Recreates Finnick’s Sugar Cube Moment From ‘Catching Fire’ Ahead of ‘Sunrise on the Reaping’ - IMDb",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xMkxaV2YxT05OaW55NzU0VDRITFFkM0ZIcDlFc1JJMjhJWTBueDFuMWhTSmsweFJraGpncml6d210VWpUdjJHNmpiem9QT01lNmVfeUM5Y21TcE1uMEpwTVJJcm1HMWs?oc=5",
-          "published": "Thu, 05 Nov 2026 07:44:00 GMT",
-          "source": "IMDb",
+          "title": "Remsen Rubik's cube - Rome Sentinel",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZmZIX1o1SmR3LW9jVGVjcWpPWTVVVWVKbl9XUXprakxjbl9fQncwZnZrTS1aUTdVNEk3Q0liWnpyc0I5TU9jcTIzbU9pbUpIMlBZLVRZek05a0lqZ1VKbUl1OXhXaFNJT1BzR2ZsalRGNVJZY01KVDUwYTNNN08zZnBlU00yc1g4U21iNnBWWlN3RU4yMEdXdWxrZw?oc=5",
+          "published": "Thu, 05 Nov 2026 16:52:00 GMT",
+          "source": "Rome Sentinel",
           "competitor": "Cube"
         },
         {
-          "title": "CUBE May 2027 30.000 call (CUBE270521C00030000) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zdzhJMXRaaUs5RnMyblNkb04zeTNHMF9EUTExQkI3TFQteDhCbkJpZGNxLVp1V3lyZ0hDR1JMOHBIUEpmX0IxNk9qWDBiQVdta3RLdGlrMC0xUF9vX3hxUEdQN2NMZXN0M3dkZXdCdnJ1VWgwMnc?oc=5",
-          "published": "Thu, 05 Nov 2026 07:12:14 GMT",
-          "source": "Yahoo Finance Singapore",
+          "title": "Winbond unveils CUBE-Lite memory platform for low-power edge AI devices - New Electronics",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRmdTNGVidzgyNlRXcW9NMm9yZ2VROWF5Zm00MVZIQVNrMEZCZmYzZmtTOTRvelBLQmszYklXTkNvdzRPZmNUaDhhSUNtMUp1NzZxa3VtVXB2TEJpSmF3bmYtUGhHZ2NWUTVBNFZ4WXlnMDV5MUtOS18wa09TaGpKUlhXU1VNZFlLZXp5QjJJMEV0Y1dPYURDVFdHRHEzVVB2VlhrQnFVUTI1eUxiZnhORUdkQmV0RjYwYlEwb0w4ZnBOSnZDd2FhbQ?oc=5",
+          "published": "Fri, 06 Nov 2026 09:34:26 GMT",
+          "source": "New Electronics",
           "competitor": "Cube"
         }
       ],
@@ -295,17 +280,17 @@
           "platform": "google_ads"
         },
         {
+          "title": "Ads In Google AI Answers Concentrate In Apparel & Electronics - Search Engine Journal",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSWxRMW0wandzSXFiN25kUUU2X09PbHBQOXZ3Wi0xNGNPQWFtVml1UU15NkZDQlFsOXM5Smg4djJjSlVZVE9OaWlZVFhqRjg1UGlJam1wN3BHRG5YckhGSnhDLVFNak5Ma3gzMHBUVTlHaXdXVjVrMHU5R0NGVnBXSk94Ti1hSGV5dDZEbEQ1cDJteGdscWc?oc=5",
+          "published": "Thu, 05 Nov 2026 15:15:08 GMT",
+          "source": "Search Engine Journal",
+          "platform": "google_ads"
+        },
+        {
           "title": "Google Ads PMax Campaigns May Filter Out Navigational & Brand Queries - Search Engine Roundtable",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XS2NPMGo4bkFKeG8wZXpUWTBsc2hZQzhOLTM3UnQ2WF8xRUxhSmNraG0zRU5pUjVZQ3NWR0RCeVpPTVFqaHVjMnVGcV8yRGVZZF9aYzV6TXRtcEtMUGZnLWNTTDlfZkdxVzlkS0JxNmhRN1ZxeXJnVw?oc=5",
           "published": "Tue, 03 Nov 2026 12:21:00 GMT",
           "source": "Search Engine Roundtable",
-          "platform": "google_ads"
-        },
-        {
-          "title": "EU study finds DMA has not opened Google, Meta and Amazon ad auction data - PPC Land",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN19VZHNFZTZnYTNPR0RVV0tVajN2S19WdkNwdjJoLWVjTUtMOVZVRElBeEN6NEttMmxyQk83TXNaOTZaMTduZktaYm9La2FURk55RWJmeUpyaEtZMTAxYWZVSnJ4Tjc4b3RUdXRQUkk0WmpCdVhfUXVlZnY4Q1V1NTdxOTV0VGZ2Q2JldUw5WTZvSTRp?oc=5",
-          "published": "Thu, 05 Nov 2026 05:14:13 GMT",
-          "source": "PPC Land",
           "platform": "google_ads"
         },
         {
@@ -316,17 +301,17 @@
           "platform": "hubspot"
         },
         {
+          "title": "HubSpot (HUBS) Could Be 20% Undervalued As Q3 Beat Meets Softer Outlook - Simply Wall St",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ3pKYkRtY3U4UFVtNzBScDJfRUxsVDFqRjRZYlFWOUNxaV9ILTdBNlZEU3NBcjNJNXA1SDhkNGJmSWtxbVdFTHZacFJqcFR2VFZvenZ3Z05sd2l1dUtiR0tpZ1J1UUE3MVhCcVd5akU3WDM2dU9aRmZSZUVEUHRHVVI4dGlncHhKcWtFZmw0Qkowa0JLVFNJSzZabDdLOENYeHhHaXA5d2ZyVkQxM0VhelBWQTVGT1lBQ1ZQMV9ab19EQdIBxwFBVV95cUxQTmNNUWUtakJsSFZSNHlkZVdSWVdIOFhXYXBaZk1DTms5Y00wQ2lxT2hRQl9ZclJjOVYyVFktN2RLczlmNFc4OFcxMUZONURoaHpxUldPZUVDVW56Tkc0ZUhkWDZnUkJ1aDVDVmhFRDNBQnQzdmNrZEM4Qi1EU21mYWF4eWpJVWpKRHd0RXFrVFFJQnR5TzJLOWlCOXROanZKakxDVzlxektvc3RpdXRhY3pWblFBeEFJUmoxdVdsakFiOUxpTzY4?oc=5",
+          "published": "Thu, 05 Nov 2026 22:27:32 GMT",
+          "source": "Simply Wall St",
+          "platform": "hubspot"
+        },
+        {
           "title": "HubSpot CRM Review and Pricing in 2026 - Business.com",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XLVpENUMtLWt6UGdGYVR2SE05ZzVwUFVOcEtBXzhWbGpUeGlmYlZiS3JZbnF6QzZlSXAwOHlabUlxU2F3c2NrTzU2Q3RLYmhDYlB4UDVFTG4?oc=5",
           "published": "Wed, 07 Oct 2026 07:00:00 GMT",
           "source": "Business.com",
-          "platform": "hubspot"
-        },
-        {
-          "title": "HubSpot Scraps Opt-Out Data Sharing Plan Days After Announcing It - CMSWire",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEhqcDdfazJLamVDYkRzM0FoNWxyOTNjUFAyM0xUSE84ellTUG1ta3hlVVZSODNvSHNQQkdoMXhrbzcxV3MwXzFaa1prV0Z0eGlNS01sQTk3NXhodDd5WFFoWDNEcFZDTTB6RWxSUjgxLXVwcDB6d0xUUHZqUUVSa1NrbS0yTFBvam5pNDVmYUV6c000cWt6dFlqWHJlWFk0WGFVY0JrZjY3OWp1MzNDc09FOFpLdw?oc=5",
-          "published": "Mon, 06 Jul 2026 07:00:00 GMT",
-          "source": "CMSWire",
           "platform": "hubspot"
         }
       ],
@@ -338,24 +323,24 @@
       "market": "US & Canada",
       "industry_news": [
         {
-          "title": "Herbals Market To 2035: Premium Wellness and Clean-Label Sourcing Fuel Expansion - News and Statistics - IndexBox",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONTBmYTJmTFBpNms0NUs1ZzBXV0FlQy1rMkplWDhuWHM5aWt5bEt0YmNPakhxbXU2LTdBM3ZIRmkxX1RIbUNheUJxVjhBQ05rTGdMbExBTEQ5VmNoSk9GY1dhMTRONjZoUHVtNjV2dnhKVi1lMTJidjNtMUFzVXdBNERhN1dweGhaUThJdFJpZDhQS041RVFZOXd4eXozM2tYRENyVTNiakxNNkMwN0lfb1d1Z181dlFGYU90eHU1MEE?oc=5",
-          "published": "Thu, 05 Nov 2026 00:36:05 GMT",
+          "title": "Apricot Jam Market To 2035: Premium Demand and Clean-Label Trends Fuel Growth - News and Statistics - IndexBox",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZDFaelhGeVkteWhTMV9sZndQanV5QTM3aUpvMFQ1WGdpeXM3ZFVmTjlsQzdVTFV0OHNOZ082VjJpZlhYbTJjdTJ3T00xcmloYUtFVlQycmV4RDVNRkM4U2dvUTNFb0JuZ2FQMG50b3JLUnctUGNIZVZJUXhsVUpDQUU3dTBseU16ZVliOVo5eHFLQ0ZMd3lwUmxlYmtxbXoyakxXNFNWc2cwTndTUWhoVmx1YUt5Q0stYzNnelJRc1Z6eWttMGJaVno0ZUEzX2NIRkE?oc=5",
+          "published": "Fri, 06 Nov 2026 10:11:04 GMT",
           "source": "IndexBox",
           "keyword": "premium tea market trends"
         },
         {
-          "title": "Dairy Market To 2035: Functional and Premium Demand Supports Forward Growth - News and Statistics - IndexBox",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVno4Q2tld3ZhMzlCQ0lDV2lNaVlrQy16MmdwOGlKVVNWeXViQnNOLXI0d1NUcHBUcXNvZVY5YVR4SW1heUVwa0JXV0RMMVc3RE93N0xvVkhLd3FCOFhaei1UZDRQdXpzenZXbVhQMEZLcHJPNFkzRWlpejFhaGlBVGRWRlZfblZLRU03MTBPbjBubXdBU3d6NWplRmhrSkxvblFIWlhVMGY2SGZXczJrTDRkQQ?oc=5",
-          "published": "Thu, 05 Nov 2026 00:21:05 GMT",
+          "title": "Beard Oil Market To 2035: Premiumization and Skin-Health Demand Drive Growth - News and Statistics - IndexBox",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ2x4RS1sSmlvMS1YYTlXd3UzTjRiWEdTUlY1VU5WUEQtcXBPNmtqeF9KdjZsQTRjYjJ3QlhmUVBaS3R5cDl1N3VkNklJcU9melZPYWI0R1JkWl9DckFxN1BMZTVOUkcyZ3lSZC13RW1VbjM3Q3BWU2RaZjhsZnBPVmoyYzM1WEU1WGo0SkFVYi0wbnhIaGJGMHZrVFFYa0x3TGdadWhEemM4VDVKM0RUNU50dEU?oc=5",
+          "published": "Fri, 06 Nov 2026 11:56:04 GMT",
           "source": "IndexBox",
           "keyword": "premium tea market trends"
         },
         {
-          "title": "Tea Extract Market worth $4.70 billion by 2031- Exclusive Report by MarketsandMarkets™ - PR Newswire",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMWl6a1U5VTFKLVdFVVFsRWlBUnh2NjJ3bjVtNmlLWHRjWlRyWURjZTFhOUFZb0R4eFR6U2pUZW1aa0RKTWlPNkR3SnB6RlRtWHBxRmttTmRzdXh3LTM1XzlmeUNBQ01BZG5ta0hTQlVRRTdaREZEMUdKWGNBb1hmQUpGcUxwSmNBLXNqY2lZVVUwTzFNenRlXzloTGR6TnFrSTVJZkFwN1R2eEdRdldlbzlZZ3lmTW5MUDVsR2J4bFRqZnZaM3FqQkwxN18xeW8wQzdTS1l3?oc=5",
-          "published": "Wed, 04 Nov 2026 10:45:00 GMT",
-          "source": "PR Newswire",
+          "title": "Diwali Demand Puts India’s Home Appliance Market on a Premium Growth Path - Indian Retailer",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa2dNOUQzQkh4SVJsWlYwVFRFU0ZwZ0w4Y0IzOXZremlpbnhjZzYtaE1zVGxXUGxwV0ppNno4dmZvTWZmbUFNSklLRW56V29vZnRnWDZsNjRLNXFOc1JBNDIwMnVJRzJ2ZE1yaXNDSndYbFBFdEx4cG5CWGppYy13OEs0Sl9KUnIzQVZvaEZFWDNlOHhwSjNWWVBMV0hlZUlpc3Zmd3hUY2FwS25yaktUSjRyTzl0Y0pDYzllMkR1TXlJRndzdmJhVA?oc=5",
+          "published": "Fri, 06 Nov 2026 11:27:47 GMT",
+          "source": "Indian Retailer",
           "keyword": "premium tea market trends"
         },
         {
@@ -366,35 +351,35 @@
           "keyword": "specialty tea industry"
         },
         {
-          "title": "Uji to Introduce Premium Matcha and Japanese-Inspired Dining to Downtown Wilmington - WhatNow",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ01tUWpCV1cySTNEVVN0MWdJYXZSR0VyandyZHVBZnVCd2V4LUlHRTEyb2NaUzk1ZTJqeXBNOGVTMkMwaXhlM2RoS0JtWnByX1lMNmIxbVdzbC1TcjZKTjFUVEx4NGt1QlVVeXRjT0NXNWlaeFlPYzVtQW1WckRTdGk5RXkyeGFibXBLN2JwUnZTY0R3Y2hpY3FkYnVpeDVlQzIxUWo5b2RjRDFCb0k3aEhaQUQtUFB5T0ozVU1Hblp6WUhW?oc=5",
-          "published": "Thu, 05 Nov 2026 08:17:08 GMT",
-          "source": "WhatNow",
+          "title": "Expanding the tea value chain - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44dkduampCX0xkT3NMZldObHU4a2NMSV9ySndiOEFiQ3VPNE5RbnMxbHZCc3RIMGRhZEVPMXRNTzMtTmZ4b2Z0RXdmSEl0bnEzMWJNenBxOGJYWVotV0lQeUVoVEY?oc=5",
+          "published": "Fri, 06 Nov 2026 01:11:19 GMT",
+          "source": "Vietnam.vn",
           "keyword": "specialty tea industry"
         },
         {
-          "title": "\"In tea, export earnings increased from KSh163.3 billion in 2022 to KSh187.1 billion in 2025. Yet most of our tea still leaves Kenya in bulk. We have earned our place in the world’s teapots. Now we must earn our place on its supermarket shelves. We must blen - Facebook",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTGtSSmZjaFZrc1JrcVpaRjMwY2xNOXVSZjBrWFMzNktnSmF5SEUxOE45Rmp6WnY4WGU3RXBGMlRfZ1ZwTXZuZjRfUTVHVDBZZVVWSUZnSjloMnFzQnhjTDlyTUliQjQ0WHJkbExxa0RRUEptWW80a2lBSVE1NVBPSmFlT1VUTXdUbUdNcUtwMHJfSGt2RWFXMV83SU9RSHZiOFpGT25lbDVOdnA2cGRzd3JEZkUyVUdiMHhzTUF3UFZoXzloM3pkbUtFdFMyYXF4TWlOZEV4SU1KcDdFY3c?oc=5",
-          "published": "Thu, 05 Nov 2026 07:35:01 GMT",
-          "source": "Facebook",
+          "title": "Thai Nguyen man turns Shan Tuyet tea into 4-star OCOP specialty - VOV World",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONmRubzlacWVEeEhfbERDWjMzbk1oMzdudUtJVFgtN1oxZ09jNlBwYU5XVXJpY0YzV1Q5YTJFbFdQN0hyb0FfVEE2V3BzQlg1cFIyQzI2dGxmUnAwaXVMM2Q3RHRqSlB0eVVvNzBabXFLQ09aV3U3a3hQVGozb1o5Qkw0TE1qVXFVaDhoc096RmJoMzhLcXowTWZxSlhuNkVqbXlYV29vWEVNVGQ1ZXJrTGMxVXBidllQRU1nMQ?oc=5",
+          "published": "Thu, 05 Nov 2026 17:07:00 GMT",
+          "source": "VOV World",
           "keyword": "specialty tea industry"
         },
         {
-          "title": "The 2026 Top 25 Historic Hotels Worldwide® Afternoon Tea Experiences List is Announced - StreetInsider",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbFpYR2pwcWJpWU9WUndWWkc4WGFIdFlHcm8zTUdOczc2TG9TbDRuazFWVndZSmVyWFJ4elpqUHdBb1prcDhtbXE2RC1vdXBBRTRpeG9yZU1DZjhFcG1rZTNJcmI5d01XWEFKcThTZVFqeE1vUWxOY2QxeGNac0JOSmVtb01qN2w0WTVLN19rd3paSDB6VXVlUmtJS1ppLVRseUtxZy1hZ0ZndTR2SFRNeXNLOUVEalBYWENUamdzZVh4eWROZXVRaHEyal9uVzRQTXJCNUd4VmJ3VDQ4WTBCUjhXbHo?oc=5",
-          "published": "Wed, 04 Nov 2026 12:50:33 GMT",
-          "source": "StreetInsider",
-          "keyword": "tea hospitality supply"
-        },
-        {
-          "title": "Where did the afternoon tea set, which symbolizes today's hotel culture, first start. The Langham Ho.. - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tUkFxWnhrbEJVTVhadC05bXJjSzdVOUF5OWVHQjdBZG9RMzRJclptckNCbDZyVE5sQ1FzQW93Nk5OMDMzaGlGM0N1TENDazJNNGc?oc=5",
-          "published": "Wed, 04 Nov 2026 23:02:47 GMT",
-          "source": "매일경제",
+          "title": "Veterans Day 2026 Free Meals, Freebies and Deals - The American Legion",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeFI5NzJ1ZEEtLTRZMDktb0JkYjR6Rk9wZXVoWlZfYkdZY0FBTHotMFROWnJyN1BKaEJfbzU0ZGp5OWg3eWtPVms4VzdxOEgwb1FWNV9rOWxrMEJDc1NZMG9XQ0luU3E3dnEwNmZidzktd0JsNVJSc3pualBEREZ0ajZQZGp4dmZCenNmTFNqRWpyR1VPaHlPTVlzb0Ixektac2hHTUtRa0Jzdw?oc=5",
+          "published": "Fri, 06 Nov 2026 09:04:09 GMT",
+          "source": "The American Legion",
           "keyword": "tea hospitality supply"
         }
       ],
       "competitor_news": [
+        {
+          "title": "7 best herbal teas to help you relax during the holidays - INQUIRER.net USA",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NVzY2XzRSR1pRWVN5NVVyd3NSMzNhZG1Id2FZZDJYeXBHTzFDQzlkUE1COEpBQlBGdHdZTDQ5bGVBZU9STHFhd3dsVGFjaHpwWF81cjhRbUdNR0IyT0VRcVFFSTR5dw?oc=5",
+          "published": "Thu, 05 Nov 2026 07:08:00 GMT",
+          "source": "INQUIRER.net USA",
+          "competitor": "Harney & Sons"
+        },
         {
           "title": "Sleepy Hollow Holiday Celebrations kick off Thanksgiving weekend - Visit New York State",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYk5xb1dLVUR1ZmtBMmVwcVM1cEk2b05HMmhpYWJwRlJBUVR6WS1QUWtaZFAwSTJTUS1zTEp3UnN6NEZWSk83blJtaUZIOUhMVmVhcWVTNjBCUEx5UmlJWmFoQlNWTHNTZ1U1Ykl2X0J3SF9wN2Rhb1FPZTBZTGg2T2NjZHZaVHVFMlQza3RQU1VlNGZaalBtVi1jYTI3NXZqaEFaOA?oc=5",
@@ -403,6 +388,13 @@
           "competitor": "Harney & Sons"
         },
         {
+          "title": "Weston, Scotiabank, Biorem at 52-Week Highs on News - Baystreet.ca",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12dng3VmV2ZVlmZkxxc092RHU1TE9qRGwtYmg3TFFMTlJ3cnhIcDRyTmVHTTJ1ZHFBLWJkV0RNcU9jSFZFekJ3NnFsakVuZ3R2czZkZWhlRXNmbXhjakMzaWlWUHhHcTRGanlUeEh30gF_QVVfeXFMTW5FWWlwbnd6M3VablBKMXd6cEp2ODBFVHh2MjFaNDRWUXYzNE1tU2NFeHVXX1ZGWndhWVRDX0V3RVRWbzloWnpYcHhiSm5Fdlg2Z25PVUdIRU9OcGZoU0pCMzJ3OEN6UjVxYVV1c0w5RHg4NDVoNUZJZkpWMmlGNA?oc=5",
+          "published": "Thu, 05 Nov 2026 16:09:09 GMT",
+          "source": "Baystreet.ca",
+          "competitor": "DAVIDs TEA"
+        },
+        {
           "title": "DAVIDsTEA Inc. (TSXV:DTEA): Store-Led Expansion and Leaner Operating Costs Steer the Specialty Tea Retailer Toward a Seasonal Earnings Test - kalkine.ca",
           "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPalBUYzJ0LW45ck1weURQRGlEOTVKMXlWYlotRTRhNUl0QWVSczVfTlUzREt1c2J5WnhWODk2YnNRLUxZVUdlcEQxV3R6b0JFdHJlV1BEdE5RWFRNRDZaUzcwWmR6RDMzcGlZNG1aczRxd1piUlpoX3Y0Z250ekE5YVZqQ2VNTzlRclRyVTZiNXZ5SU15eUJaV0RmYzVnYkRjMUZvRWhYMFVCcldxNi02dVBNMFNzaG11UXowTmdLUUV5aFVXWFJJRWZzMUQ2QVUySWJqUmM1dVVBV0ZzVFYzcU9iemVNSVprNTZkdFpUaFhTOGRZQlNUQg?oc=5",
           "published": "Thu, 05 Nov 2026 10:09:00 GMT",
@@ -410,38 +402,10 @@
           "competitor": "DAVIDs TEA"
         },
         {
-          "title": "DAVIDsTEA Inc. Shares Advance 9.09% as Investors Reassess Growth Potential - kalkine.ca",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdlhxN0ZmUXNYX0JoUFpBeEVLaGJ0U0lmUEhZdW1aR2F4dVVyeUFJMGd0WUs4N014eE9Wei1zNkFtZUZUQXNwSU91WkRGakFPeVJuZEtsQnFMZENrR2R1dXJFOTl0UjFJSV9LZVR0Zld3OUtLck5RUlRuWEFiTmd1SF8tUmZQVjIwdUdHSndqUTN5WkF6enU0ZGpzbjB5WEZ0Wms0cA?oc=5",
-          "published": "Wed, 04 Nov 2026 07:39:00 GMT",
-          "source": "kalkine.ca",
-          "competitor": "DAVIDs TEA"
-        },
-        {
-          "title": "The Weather Station - Robber (Official Video) Davidstea Organic Sneeze Ease Recall (I3N72HHJ5A) - Unisba Media",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lSWpuSG54Ml81ZURkZW9IUkkzbWRKQk16VnU5VWNiUlZ4UjZsRmlvcGltajlMVkR4MldaVXR0MzhSU3M0T1gydGRMVXJ5b1hHLVpfYWhwbXZSMjhiS1ZrVm1YM2Vsdw?oc=5",
-          "published": "Tue, 03 Nov 2026 17:05:27 GMT",
-          "source": "Unisba Media",
-          "competitor": "DAVIDs TEA"
-        },
-        {
-          "title": "A Leesa Mattress, Award-Winning Hair Care and More Standouts at Our Latest Event - TODAY.com",
+          "title": "A Leesa Mattress, Award-Winning Hair Care and More Standouts From Our Latest Event - TODAY.com",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYVM2bzhjX0wzTUF3eGQtaXl1dzlET0luUExwLXFMWEpQVE1DZXpHbVRFYXgzQW00RzBaazh2bjBjbnZXUWtHNHZkZmRDLWtzVkE4dUdidFFIc0h3cVczM085VGxCLWJLeVVJeUhpbG1FZERzdWtRUFY3b180UU5OS3Z2VGs?oc=5",
           "published": "Wed, 04 Nov 2026 18:07:47 GMT",
           "source": "TODAY.com",
-          "competitor": "Rishi Tea"
-        },
-        {
-          "title": "Bagged Teas Market To 2035: Premium and Functional Blends Fuel Forward Growth - News and Statistics - IndexBox",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYjFJNTBZcFdMWU1RVmFFd1g1T2YyRlRUS1l1UjVBUEpRNDdSQWswMjc0UGxEbmxhYUlfY0I4Y2xpdmtyZnVEeTg0NXUzUlZlYklFWkdYbWFzZkxRbzR4UWFYZ2hWYXZLejFWRGhRMlcxX29wTzd2a294T3ZwS1RxTTdLQ0l5aW9mQnFWVmhqamlkNTk0SVUwSFFKbzRwbXN2aXBhMm9LaWFHMHgxSFdoMHlTZHpFSnRZemtxUFB3?oc=5",
-          "published": "Wed, 04 Nov 2026 00:06:04 GMT",
-          "source": "IndexBox",
-          "competitor": "Rishi Tea"
-        },
-        {
-          "title": "Meet The Pivotte, A Cool New Hybrid Immersion Coffee Brewer - Sprudge",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYjh6SS1wdi00QVM2Q05INE1IeURHeE1fUi1teU5qUS1ocmFYa3M4OEQ2WjU3aHR3eHNzZTBVeWE4MXNhOG1PZ3g2SXE1OExzeUlteGIzeVRDVThTcHZUYnBjVXRjZzlkSlZNM3R4ZXY4NFljWmZHbmJPOVRpSGtkV2lzS2FNTHo5UmRlQ1k3eHlQQnJXMmc?oc=5",
-          "published": "Tue, 03 Nov 2026 13:03:21 GMT",
-          "source": "Sprudge",
           "competitor": "Rishi Tea"
         }
       ],
@@ -454,17 +418,17 @@
           "platform": "hubspot"
         },
         {
+          "title": "HubSpot (HUBS) Could Be 20% Undervalued As Q3 Beat Meets Softer Outlook - Simply Wall St",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ3pKYkRtY3U4UFVtNzBScDJfRUxsVDFqRjRZYlFWOUNxaV9ILTdBNlZEU3NBcjNJNXA1SDhkNGJmSWtxbVdFTHZacFJqcFR2VFZvenZ3Z05sd2l1dUtiR0tpZ1J1UUE3MVhCcVd5akU3WDM2dU9aRmZSZUVEUHRHVVI4dGlncHhKcWtFZmw0Qkowa0JLVFNJSzZabDdLOENYeHhHaXA5d2ZyVkQxM0VhelBWQTVGT1lBQ1ZQMV9ab19EQdIBxwFBVV95cUxQTmNNUWUtakJsSFZSNHlkZVdSWVdIOFhXYXBaZk1DTms5Y00wQ2lxT2hRQl9ZclJjOVYyVFktN2RLczlmNFc4OFcxMUZONURoaHpxUldPZUVDVW56Tkc0ZUhkWDZnUkJ1aDVDVmhFRDNBQnQzdmNrZEM4Qi1EU21mYWF4eWpJVWpKRHd0RXFrVFFJQnR5TzJLOWlCOXROanZKakxDVzlxektvc3RpdXRhY3pWblFBeEFJUmoxdVdsakFiOUxpTzY4?oc=5",
+          "published": "Thu, 05 Nov 2026 22:27:32 GMT",
+          "source": "Simply Wall St",
+          "platform": "hubspot"
+        },
+        {
           "title": "HubSpot CRM Review and Pricing in 2026 - Business.com",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XLVpENUMtLWt6UGdGYVR2SE05ZzVwUFVOcEtBXzhWbGpUeGlmYlZiS3JZbnF6QzZlSXAwOHlabUlxU2F3c2NrTzU2Q3RLYmhDYlB4UDVFTG4?oc=5",
           "published": "Wed, 07 Oct 2026 07:00:00 GMT",
           "source": "Business.com",
-          "platform": "hubspot"
-        },
-        {
-          "title": "HubSpot Scraps Opt-Out Data Sharing Plan Days After Announcing It - CMSWire",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEhqcDdfazJLamVDYkRzM0FoNWxyOTNjUFAyM0xUSE84ellTUG1ta3hlVVZSODNvSHNQQkdoMXhrbzcxV3MwXzFaa1prV0Z0eGlNS01sQTk3NXhodDd5WFFoWDNEcFZDTTB6RWxSUjgxLXVwcDB6d0xUUHZqUUVSa1NrbS0yTFBvam5pNDVmYUV6c000cWt6dFlqWHJlWFk0WGFVY0JrZjY3OWp1MzNDc09FOFpLdw?oc=5",
-          "published": "Mon, 06 Jul 2026 07:00:00 GMT",
-          "source": "CMSWire",
           "platform": "hubspot"
         }
       ],
