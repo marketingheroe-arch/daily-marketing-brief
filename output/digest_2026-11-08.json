@@ -1,0 +1,344 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T11:46:27.556061",
+  "clients": [
+    {
+      "client": "Alma",
+      "vertical": "Health & Wellness / Suplementos naturales",
+      "market": "Spain",
+      "industry_news": [],
+      "competitor_news": [
+        {
+          "title": "Greens outscore Real Madrid in 227-point battle - eKathimerini.com",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWTBUQm02Wk1GS1k1OFRkU2xfczVJbmpPUjJoVFpVVVBaNkJGQnRrVTE4NE9WY20tV3RLbDliem1ORUJxanZ3MjVjb1NCSmVmcUtqSFlDZjVxd0Z0Z2R0a21XbDVkWDNmempXNjFPby13a2F0aHpkV0RQNFJSbmZ0YmFTZEk0bVh5UTJYckJJMkJtNklxalE0?oc=5",
+          "published": "Fri, 06 Nov 2026 21:46:46 GMT",
+          "source": "eKathimerini.com",
+          "competitor": "Athletic Greens"
+        },
+        {
+          "title": "Draymond Green’s ‘Spoiled Milk’ Jab at Kristaps Porzingis Ages Poorly as Warriors Big Man Steps Away From Basketball - شبكة تواصل الإخبارية",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HbEpfc0RqOVJMcENFOFNNSDY2WElPZ0d4RVJZcUpJTFp2VE9vZVNQaEdmVmw4V285dFI0TXp5ZmdudTZXTDdYVU9hSGxMRUYtZkxF?oc=5",
+          "published": "Sat, 07 Nov 2026 02:55:51 GMT",
+          "source": "شبكة تواصل الإخبارية",
+          "competitor": "Athletic Greens"
+        },
+        {
+          "title": "First Alert Weather Extra: Your Super 7 Day forecast - WFSB",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRU50UUdaY25tenp1cnJmNnNmQ3d4b19PVDl2VmV5eUx0cDB1NEgzc2VBbDl6QmF0cHMwT1VLUjVoaUljVEVSN1RhU1I1cnN6V041VGUyUkhJVHFZYlpoeFRoOGdWY3ZxN05qUm5BbjlTT3Y4T29ZUGdfa3JiWFRSTGYyeG1ITWFwNHNkV3ByV3I3XzJr?oc=5",
+          "published": "Sat, 07 Nov 2026 03:44:51 GMT",
+          "source": "WFSB",
+          "competitor": "Your Super"
+        },
+        {
+          "title": "The size of Democrats’ wave surprised even their top House super PAC - Politico",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeWRSckZFREI1NGtiWFNVeERMRFNPVkctQXBEY09SUDV0WWYtdGJaWmtENExGc2Y3cVgzTVZEMkNwX1hGMHFCVUI5RXM1djBCV3VCVUpSUC1KQkUxRFdPb1NVd0lNUWpPSzZDaUM5UjJBaHVWak81c2MzRVF3YzQtN2dmYzBzZjF4MWJaUU1Qb1VWT18xcTdGMg?oc=5",
+          "published": "Fri, 06 Nov 2026 15:00:00 GMT",
+          "source": "Politico",
+          "competitor": "Your Super"
+        },
+        {
+          "title": "Age 60 to 63? Here’s How to Max Out the 'Super Catch-Up' 401(k) Before 2026 Ends - Kiplinger",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQklMaWlsd2JKY3otM1hqdGI3Tzl5Mnd2WGpWRWZaVkljc0hzUGcyY3JTWDJmNFctOGRHSy1PZWNRakdHY0pNdDI1eDg1YnVEbG82b0FUV3BTYk1kTFoxcWxuZXZWUW1saWdUd3pNcm9oVHRaY25TMmozTzk5MlRKak4za3dYTXQ3YzFLN2l3?oc=5",
+          "published": "Fri, 06 Nov 2026 20:13:32 GMT",
+          "source": "Kiplinger",
+          "competitor": "Your Super"
+        }
+      ],
+      "platform_updates": [
+        {
+          "title": "How we’re evolving the Shopify Partner Program for agencies (2026) - Shopify",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BWDViYWNrc0x5bW1IMWtNR0lIclU1VjdXb1ZIdEVxR19MNWIxbWpFM1BYWko1eVlXYkZGQWFuQXBydGFMdmJGZ192cU9SekxFOWZwcFV6UlgtX0NoSnRoMUNONHk1a2huVVhlcnVOczI5cGJTdFE?oc=5",
+          "published": "Wed, 04 Nov 2026 18:40:38 GMT",
+          "source": "Shopify",
+          "platform": "shopify"
+        },
+        {
+          "title": "Exponential: Shopify's Fall '26 Edition - Shopify",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pejhMVThGX1pwYnJ4dUpkU1plRUZiQlQ3X2NjYkhkTkJxVmlsVy1CVGd1M1lPV2s1T19LaHB0dUVsT0RuVVlnM0xrOTI0NElZeDEyMXRITV9UdkFHQzhSODMzQQ?oc=5",
+          "published": "Wed, 28 Oct 2026 07:00:00 GMT",
+          "source": "Shopify",
+          "platform": "shopify"
+        },
+        {
+          "title": "Shopify Retail Roundup (2026) - Shopify New Zealand - Shopify",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51TmV5Y1VKRXRkT0h6ZHl6cEkyaXhadkl2aXNkYmNYbG1WSXNGQnhYWUlNLU54WndyS0FXX1pZNjJ4dzVvbmtXeE1JWHVURlUzcHJlUml4bkNEUmd5UWFhZ0FPUms?oc=5",
+          "published": "Mon, 26 Oct 2026 07:00:00 GMT",
+          "source": "Shopify",
+          "platform": "shopify"
+        },
+        {
+          "title": "How To Use the Meta Ad Library in 2027: 10 Ways - Shopify",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CZWNfT21Ua05jZV9QTjRQSmtvUENNWU84NHRLaWw0WkRMQk4xUVNKZFc1cF90UVZhTC1CSl9pZElsUVM5ZGczX2RYODhqMVREWFRTYkR3Vk9RUDhsS2NMSg?oc=5",
+          "published": "Wed, 04 Nov 2026 08:00:00 GMT",
+          "source": "Shopify",
+          "platform": "meta_ads"
+        },
+        {
+          "title": "Oil companies spent over $2 million on Meta ads in the lead-up to the midterms - Yale Climate Connections",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON183UWtVRW9KLV8zVGQ0dEM3d0MzQjVjaU9QeHE2aXFQQndUdmxjNEdyN2drb0FYVjJ5aklPVnU2ZmJsYzRIclBzWjVnQ1VjQm92S2k5VFJxdUJ3ZW1yN2RkempMUGRyLUJGcm1rTWZxeGs0dmk0UXc3M0xhOEM3YkVrN2l2bENzLXBReVZQQm94ZUVmUUJQZWFvS29DbG1FdDg0dk1oNldpYTQyVV93ZXYxUTVYQWlOR2dpTXdn?oc=5",
+          "published": "Thu, 05 Nov 2026 12:00:00 GMT",
+          "source": "Yale Climate Connections",
+          "platform": "meta_ads"
+        },
+        {
+          "title": "Meta Changes Graph and Marketing API Defaults for Advertisers - WeRSM",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GTFNZN3RIRmtTVi1hMGpyTjI2cXNoY2xielkzczlEYVMxSWlhR0tKVTBRUUZISEh4cXVzaTZheWZHRHRJT1B3Ql90MDNHNDVDemJ4Z3hCUUlTeTdPbE1VZk9DZlFTV21iVF92Q0JMWXBsdmNR?oc=5",
+          "published": "Sun, 08 Nov 2026 01:02:09 GMT",
+          "source": "WeRSM",
+          "platform": "meta_ads"
+        },
+        {
+          "title": "Google Ads PMax Campaigns May Filter Out Navigational & Brand Queries - Search Engine Roundtable",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XS2NPMGo4bkFKeG8wZXpUWTBsc2hZQzhOLTM3UnQ2WF8xRUxhSmNraG0zRU5pUjVZQ3NWR0RCeVpPTVFqaHVjMnVGcV8yRGVZZF9aYzV6TXRtcEtMUGZnLWNTTDlfZkdxVzlkS0JxNmhRN1ZxeXJnVw?oc=5",
+          "published": "Tue, 03 Nov 2026 12:21:00 GMT",
+          "source": "Search Engine Roundtable",
+          "platform": "google_ads"
+        },
+        {
+          "title": "Most ChatGPT Ads In Beauty & Travel Ran On Research Prompts: Report - Search Engine Journal",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSWxRMW0wandzSXFiN25kUUU2X09PbHBQOXZ3Wi0xNGNPQWFtVml1UU15NkZDQlFsOXM5Smg4djJjSlVZVE9OaWlZVFhqRjg1UGlJam1wN3BHRG5YckhGSnhDLVFNak5Ma3gzMHBUVTlHaXdXVjVrMHU5R0NGVnBXSk94Ti1hSGV5dDZEbEQ1cDJteGdscWc?oc=5",
+          "published": "Thu, 05 Nov 2026 15:15:08 GMT",
+          "source": "Search Engine Journal",
+          "platform": "google_ads"
+        },
+        {
+          "title": "How Montessori Toddlers grew their business with Google Ads - Google Business Profile",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNajZucG9Gb2hZdE03cXlfQjJiWDMzTkprd1p0RjJ6VGJaOEFFdkFud254dzVyMzgxOHZ2WnR5SG5vaGFkNC1lek1lQlJJZVl0c0NGNkZ4V1NOMXhLSkFVZTdIakhmN2h0TXZ4OElUWDRTMHpXeGxicVlDZ1Q4M1ptclpR?oc=5",
+          "published": "Mon, 12 Oct 2026 15:20:34 GMT",
+          "source": "Google Business Profile",
+          "platform": "google_ads"
+        }
+      ],
+      "ai_summary": null
+    },
+    {
+      "client": "Cropster",
+      "vertical": "SaaS B2B / Coffee Roasting Software",
+      "market": "Global",
+      "industry_news": [
+        {
+          "title": "43+ gifts moms really want, according to a mom - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IRHU3S05SeGlCYWxOVkN4eXpjWk5QQkpMY2xPcEFIZFdqY0k3ZUVoWW5SdHQybHQ3V2lzRXZjV3pxN2dFbWdmZXg3M01Dbk95ZUJvank1dUJub1JhUjVCQTZKSG9qaUhtaW9kT0IxYWxaSDZBX2paeUJn?oc=5",
+          "published": "Sun, 08 Nov 2026 02:40:45 GMT",
+          "source": "NBC News",
+          "keyword": "specialty coffee technology"
+        },
+        {
+          "title": "Compact Home Espresso Machines - Trend Hunter",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yUVNGbTZ5RmxIelVFUHhvOThZa1hVRGV3aWNxRDlYMDAwZVIzN3ExX2F4ZVd4VTk2RDR0eWZ3azJDem5aZlh3YzlGSmR0RzE5dlVNY0UyQ0lqTmo4LWI3VWdJbGxseWZqRl9Edk1NUXp0LVE?oc=5",
+          "published": "Sun, 08 Nov 2026 06:08:55 GMT",
+          "source": "Trend Hunter",
+          "keyword": "specialty coffee technology"
+        },
+        {
+          "title": "Walmart Black Friday deals: The best early savings from Ninja, HP, Shark, Michael Kors, plus everything we know so far about the event - Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQNzFUQ0NQc3plNWhvQnpTRTFucWtZRHRPSl9kMmg5bEVWdUhRa3NZV2pOOGRFUThtSEhZWVd6ZXQ2YmZlUU50V21JRnU2VUZpeG1JTVdETTAwY3g2dW1vdUlfYkhYeDFvQ3EzYkpYS2lwZ2xtMVltNGI3Wjk4bS1vLVd6YXZCbHh5eXJLS0FXc1p4Sl9DMDdsbHA5QldRNWJEcVJIV3FrX3NFSy1vWTZDUGNQV0k4RGYwVGk4QWF2U2k1NVQxM24zSk9CbE9Lc0drV2ZmY3Z5c3lrbnpBWDQ3RDkzZVlvMXdsZFhNWks2X08zTC11d0lpTTZXZGRRdTU5d1BpMEc5elpyQnJxNFYtMHc3SHBzU2V2VEVrcHh5Sjh4Y0RlMmc?oc=5",
+          "published": "Sat, 07 Nov 2026 20:11:21 GMT",
+          "source": "Yahoo",
+          "keyword": "specialty coffee technology"
+        },
+        {
+          "title": "Vietnam-Japan trade machine has room to run - Vietnam+ (VietnamPlus)",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcXBYMnJaYkhzUU9FNm01VmYwN1Q0ZWdxRE1LOHoxUENSR0VjRHZ0ZjlWSW5TOUpYb3FsaVBMaXJnZENYcVk4aXIxQVZXV0ZJbmJlSWtiUUdjNkhwODA5M01RR2s1V1l3c2EzSkg3blBvb21Mc1NuT2N5OW41RnpFM0dPclk3U1RsYUQ5Mw?oc=5",
+          "published": "Sun, 08 Nov 2026 07:51:06 GMT",
+          "source": "Vietnam+ (VietnamPlus)",
+          "keyword": "coffee supply chain digital"
+        },
+        {
+          "title": "How AI, digital platforms are helping Ugandan farmers unlock UK, global export markets - Daily Monitor",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNWs0NXJ5cVZtSF83ajZTVURhOFhFNVVHcnlwclNoZTBoSHJoM3dONGd0dllCN05VVnhhR3kxZVhQNmhYUTJ0Mk5WV3V5ZW96djdBNzR0LXI5VTE4a0gwbGFrZkJtN284Tk1NOGozWmNSMndHYkcxa2RObjR1ZFBOckRjTDRUeVBxZGNxSXRwbHNIeU9EMHlEOThyaGZxZ1RPblhxZDdjdDdsWUYwUnh3SEFISmRDbTVjMkZwWjIya29seUp0NGJ2S1I3aWpIems4TkU1aUMySDVhdw?oc=5",
+          "published": "Sun, 08 Nov 2026 08:46:15 GMT",
+          "source": "Daily Monitor",
+          "keyword": "coffee supply chain digital"
+        },
+        {
+          "title": "Vietnam-Japan Trade: Enhancing Value, Strengthening Supply Chains - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcGlqZGI2UGM3OEFsMVhjU1pVcUNXUTBKdmlULXJtUlhLRnpOcHdmNVRwaS1hLTRtQy1mdUdJenRlSWFsa05UVC1jOFFwMzdlakpzcTlzb0hJSG1CNEYwNHplYkZIbDA4SW4zTkh4aTE1eFpMSjVHR05udGpoSE0zdjBMUkRXZ0pvUTZEaHNkWkd2ZVdUdnJZX3Rn?oc=5",
+          "published": "Sat, 07 Nov 2026 11:05:43 GMT",
+          "source": "Vietnam.vn",
+          "keyword": "coffee supply chain digital"
+        }
+      ],
+      "competitor_news": [],
+      "platform_updates": [
+        {
+          "title": "Google Ads PMax Campaigns May Filter Out Navigational & Brand Queries - Search Engine Roundtable",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XS2NPMGo4bkFKeG8wZXpUWTBsc2hZQzhOLTM3UnQ2WF8xRUxhSmNraG0zRU5pUjVZQ3NWR0RCeVpPTVFqaHVjMnVGcV8yRGVZZF9aYzV6TXRtcEtMUGZnLWNTTDlfZkdxVzlkS0JxNmhRN1ZxeXJnVw?oc=5",
+          "published": "Tue, 03 Nov 2026 12:21:00 GMT",
+          "source": "Search Engine Roundtable",
+          "platform": "google_ads"
+        },
+        {
+          "title": "Most ChatGPT Ads In Beauty & Travel Ran On Research Prompts: Report - Search Engine Journal",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSWxRMW0wandzSXFiN25kUUU2X09PbHBQOXZ3Wi0xNGNPQWFtVml1UU15NkZDQlFsOXM5Smg4djJjSlVZVE9OaWlZVFhqRjg1UGlJam1wN3BHRG5YckhGSnhDLVFNak5Ma3gzMHBUVTlHaXdXVjVrMHU5R0NGVnBXSk94Ti1hSGV5dDZEbEQ1cDJteGdscWc?oc=5",
+          "published": "Thu, 05 Nov 2026 15:15:08 GMT",
+          "source": "Search Engine Journal",
+          "platform": "google_ads"
+        },
+        {
+          "title": "How Montessori Toddlers grew their business with Google Ads - Google Business Profile",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNajZucG9Gb2hZdE03cXlfQjJiWDMzTkprd1p0RjJ6VGJaOEFFdkFud254dzVyMzgxOHZ2WnR5SG5vaGFkNC1lek1lQlJJZVl0c0NGNkZ4V1NOMXhLSkFVZTdIakhmN2h0TXZ4OElUWDRTMHpXeGxicVlDZ1Q4M1ptclpR?oc=5",
+          "published": "Mon, 12 Oct 2026 15:20:34 GMT",
+          "source": "Google Business Profile",
+          "platform": "google_ads"
+        }
+      ],
+      "ai_summary": null
+    },
+    {
+      "client": "Fuel Finance",
+      "vertical": "SaaS B2B / FP&A Platform + Fractional CFO",
+      "market": "US & Canada",
+      "industry_news": [],
+      "competitor_news": [
+        {
+          "title": "Israeli experts preserve ancient synagogue floor mosaic in northern Israel - The Jerusalem Post",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vekdXV3VtSTQ1WlJwTllVNVpYUGFXcGRtc0xzdW9ndnBqUlJyeWlSZm9CYnlsQjF1VjVld2pGTmRhQXdYOG5FUUpsX0ZsNFNrT1ljSERmVFoxSlpw?oc=5",
+          "published": "Sun, 08 Nov 2026 05:55:19 GMT",
+          "source": "The Jerusalem Post",
+          "competitor": "Mosaic"
+        },
+        {
+          "title": "Civil Air Patrol Collects 'Mosaic City' of Cloud Observations for PACE Satellite - Civil Air Patrol News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTlYzZ3VOempYZHZJN05TREU3dHFGajlMRGFhLXdNOWx6bVo0WWcxQlhzbkRrU1o5dk5ScFUzQ185bHRwSHVKRi1ISUtReFNpeE0zZ0RNQUZ3bzEzczd5cUdDbEs2THZLTTNRUFVWNUNQNC0tSEVNV1hrYkxtcEhiS1BnVncwQlhzUXlKVFh2clI4cXdVRU1JTmhURU4xQ0Q5TlQ4?oc=5",
+          "published": "Sat, 07 Nov 2026 20:41:15 GMT",
+          "source": "Civil Air Patrol News",
+          "competitor": "Mosaic"
+        },
+        {
+          "title": "Local artist weaves career and nature into long-lasting mosaics - The Daily Tar Heel",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRTYxRC1aVFJ2MkdsVThXVkkyQ1pvdURFaTFjWDVISThGcWwtaVlPaEtSSUpyREZlYldBRlRKSnFfaEs0SzdTQXB3OFVLOGJCUEdYcktZZ2dhYmZ2em16V3RNOWdaajdZNVZJY1ZXTUdjQTJlTlRfS3RtVWh4RnZfV1VGQ1lzRDE2Mzk0bU84N3lTZFY4TE5vdkNDX0N5SjJndWlwTXV6a1Rrdw?oc=5",
+          "published": "Sun, 08 Nov 2026 08:26:20 GMT",
+          "source": "The Daily Tar Heel",
+          "competitor": "Mosaic"
+        },
+        {
+          "title": "Ice Cube Says N.W.A Reunion Depends on Dr. Dre: ‘If He Don’t, We Don’t’ - Complex",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9SQUdmTDV6T256QmIzeTVhdEhQZFprZ2t6SzNWbk5LVzJWREEwcVZCUUNZV1VPSWRNYS14QU1yLVVKaFkwMWhrcTd0b2xhM2RKLWlicDZqLVhiYkxEN3RSbllqRnE3Ykgxb2oyTHJCcmV1MFJDMFh2QVFJVQ?oc=5",
+          "published": "Sun, 08 Nov 2026 07:10:59 GMT",
+          "source": "Complex",
+          "competitor": "Cube"
+        },
+        {
+          "title": "Meza, Odrick Score CUBE 3 TA2 Series Class Poles in Tight Championship Battles - Trans Am racing series",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZnZFLVVSdU9TeWxuQk9mRGVUWmtxYVRIdkVldFZ0dU9lenVEZURQaXE3dkxfUjVPWHYzak5vR3ZiWVZMT3RHVWNuVnZLM0JlX3RkajhOYnJrbEZXNHVMb05lbGZLTktVZWpZNlZkNlFkbGVyQm5fbmZCMGFLTTlFOUdHdDJiN2dEd29QOWVDbldrSzZhZ2NvQzAyVjlhYl9NeWFMLVUxTW1MYko0RHBMbVFFaDQ?oc=5",
+          "published": "Sun, 08 Nov 2026 04:23:08 GMT",
+          "source": "Trans Am racing series",
+          "competitor": "Cube"
+        },
+        {
+          "title": "Parsippany Cube Club to Host Winter Comp 2026 in Boonton on December 19 - Parsippany Focus",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeng1OGcyYmNjdHNLWTJkMHN0MDRILWpxRElISm1CUmNZbDVva21sLXoyVE9Zd2x6eC1SREJxRGRPZXJkQTM1TTV2cERHTWQxdm1oRm4ydFhpZEJuNWtqeGVzNVhkR3pzRlVUZTBfUm5NRVc4VUhNMEFBYnJVeFdZeHg4MjUxU0VleXVFX0RXLTl4Z01yM0l3YVhCalNObGZ0NFE?oc=5",
+          "published": "Sun, 08 Nov 2026 05:24:54 GMT",
+          "source": "Parsippany Focus",
+          "competitor": "Cube"
+        }
+      ],
+      "platform_updates": [
+        {
+          "title": "Google Ads PMax Campaigns May Filter Out Navigational & Brand Queries - Search Engine Roundtable",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XS2NPMGo4bkFKeG8wZXpUWTBsc2hZQzhOLTM3UnQ2WF8xRUxhSmNraG0zRU5pUjVZQ3NWR0RCeVpPTVFqaHVjMnVGcV8yRGVZZF9aYzV6TXRtcEtMUGZnLWNTTDlfZkdxVzlkS0JxNmhRN1ZxeXJnVw?oc=5",
+          "published": "Tue, 03 Nov 2026 12:21:00 GMT",
+          "source": "Search Engine Roundtable",
+          "platform": "google_ads"
+        },
+        {
+          "title": "Most ChatGPT Ads In Beauty & Travel Ran On Research Prompts: Report - Search Engine Journal",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSWxRMW0wandzSXFiN25kUUU2X09PbHBQOXZ3Wi0xNGNPQWFtVml1UU15NkZDQlFsOXM5Smg4djJjSlVZVE9OaWlZVFhqRjg1UGlJam1wN3BHRG5YckhGSnhDLVFNak5Ma3gzMHBUVTlHaXdXVjVrMHU5R0NGVnBXSk94Ti1hSGV5dDZEbEQ1cDJteGdscWc?oc=5",
+          "published": "Thu, 05 Nov 2026 15:15:08 GMT",
+          "source": "Search Engine Journal",
+          "platform": "google_ads"
+        },
+        {
+          "title": "How Montessori Toddlers grew their business with Google Ads - Google Business Profile",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNajZucG9Gb2hZdE03cXlfQjJiWDMzTkprd1p0RjJ6VGJaOEFFdkFud254dzVyMzgxOHZ2WnR5SG5vaGFkNC1lek1lQlJJZVl0c0NGNkZ4V1NOMXhLSkFVZTdIakhmN2h0TXZ4OElUWDRTMHpXeGxicVlDZ1Q4M1ptclpR?oc=5",
+          "published": "Mon, 12 Oct 2026 15:20:34 GMT",
+          "source": "Google Business Profile",
+          "platform": "google_ads"
+        },
+        {
+          "title": "HubSpot CRM Review: Features, Pros & Cons - TechRepublic",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhUEZGbmtZc1d4MmdVeE9sT0hmRmJhOFpxeDhRUHBQdnpKaUlBOE1STmVDRmV6U3RUYVNVTFg3UHJhSTJhenBGaEZoWDhPZFdzTWZPUndkbDlLV3d0OXhrdHNn?oc=5",
+          "published": "Wed, 21 Oct 2026 07:00:00 GMT",
+          "source": "TechRepublic",
+          "platform": "hubspot"
+        },
+        {
+          "title": "HubSpot Scraps Opt-Out Data Sharing Plan Days After Announcing It - CMSWire",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEhqcDdfazJLamVDYkRzM0FoNWxyOTNjUFAyM0xUSE84ellTUG1ta3hlVVZSODNvSHNQQkdoMXhrbzcxV3MwXzFaa1prV0Z0eGlNS01sQTk3NXhodDd5WFFoWDNEcFZDTTB6RWxSUjgxLXVwcDB6d0xUUHZqUUVSa1NrbS0yTFBvam5pNDVmYUV6c000cWt6dFlqWHJlWFk0WGFVY0JrZjY3OWp1MzNDc09FOFpLdw?oc=5",
+          "published": "Mon, 06 Jul 2026 07:00:00 GMT",
+          "source": "CMSWire",
+          "platform": "hubspot"
+        },
+        {
+          "title": "HubSpot CRM Review and Pricing in 2026 - Business.com",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XLVpENUMtLWt6UGdGYVR2SE05ZzVwUFVOcEtBXzhWbGpUeGlmYlZiS3JZbnF6QzZlSXAwOHlabUlxU2F3c2NrTzU2Q3RLYmhDYlB4UDVFTG4?oc=5",
+          "published": "Wed, 07 Oct 2026 07:00:00 GMT",
+          "source": "Business.com",
+          "platform": "hubspot"
+        }
+      ],
+      "ai_summary": null
+    },
+    {
+      "client": "Spirit Tea",
+      "vertical": "Premium Tea / D2C + B2B Hospitality",
+      "market": "US & Canada",
+      "industry_news": [
+        {
+          "title": "Unsweetened Decaf Coffee Market To 2035: Premiumization and Wellness Trends Fuel Growth - News and Statistics - IndexBox",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVUMtUmpyUkpULW9oOHd3cXlFLVJodmVCN2xrbzBra3NGM1Y5MHNoUlNEVlZ4eXptU2Zua2FiYVJyS2NVOVg0cC1qcHVTVldmMTdzUjUzMGR4a203aGxKSy0tc1Q5dHFQc1VoNHpOLWlRRmY5VW1zZGRzNjhYNEtUTU4xSlhFSlNLSlRCVE8wSHBmWTJrMHlwalpmSllxRjdob1Roc001QnhwSW1CWG5EblVOQmY0T0pIbHNZNlpxUEh6MmRLcnNKYlI3UQ?oc=5",
+          "published": "Sun, 08 Nov 2026 11:01:04 GMT",
+          "source": "IndexBox",
+          "keyword": "premium tea market trends"
+        },
+        {
+          "title": "Herbs Market Forecast to 2035: Premiumization and Clean-Label Demand Drive Growth - IndexBox",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdVQ0a2VHSThOaS1IRzNOcTU1NDV3RjdOQk5zVjlBYTNETXBMTHhJZ2t6enAyYXk0OEdQUmlqdWlfMUJBZWtMZTdUM3RJT3lmMVBDWGt6dHdiZXM1V0h1RTFyUllLWmw4NWlzQld5WVJHcnVCblI3cnJiQ25jNFpzSExOaHJxcGl5bEY3cV96bFJsZjlDS2M5QXpaR3ZNM3FFNUcxRFZzYmhvREpVbVhR?oc=5",
+          "published": "Sat, 07 Nov 2026 21:21:04 GMT",
+          "source": "IndexBox",
+          "keyword": "premium tea market trends"
+        },
+        {
+          "title": "Diwali 2026 Gift Ideas: What India Is Actually Buying This Year — From Gourmet Hampers to Smart Gadgets - The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPR21ZNUhnYVFNUEh5ekxCY2F5Ykg4U0tDNl81LUtRNEs5VkY1QjE0ZlFIQzhUWDZ1VEFyMU9nUkd3UzVWMXhmR2F3UHRlVFRmcWZHd05LUC1zVTZPR3RvVWNYc3o2Z3lGYm9uZmpKaUFuUHVocEo2aDZELTJqMWtuX0gyU0RyY091NU44VzhZNEJFbHBzSWwzelNSRkxlVWlKY1JTLTlNTzhGNV8wTUoyeGlKbnFPamFWZzZOeC1zOUFDZFpCRV9aaTI1QWUtRHhhWF9kVWpZMUxOSEJld0FJb2ptZnY5eE1FSGY1QWJ6T1dpYVlHZ3BCSEhIWXBfY1Z40gGGAkFVX3lxTE5QcFJJbk9LUVhEVUNJcW50Z1JsX2lVeXBHTHYtYjVJd1pTWUNJQVlweHBLeklRYkRyS2hwVDJIZ2xFVFJ4QnFHVHoyMzExeWZOaW9JSWZLelNYTlZoSllsTEltQWhZMy1DVTVUZVhxUGRpVG8zdC15ZmNjTWNsdFVxcS1NVjVzRy1QeHdCUTlvdXVWV0IwaTFfNnVhMHN2dzN1Yl9wcmZ2Q19FQTYtbGxRMjZXc2M0X1JPVFdqVXlpTFlVUTZpNmttSGFGMUZpOGxZdXRHUHdNNGVwY1JIMVR3ekNoTWxSb3RHMjRoSG93M0RFUHZ5TEF5WkVrUTFJTGtqc0ZOM0E?oc=5",
+          "published": "Sun, 08 Nov 2026 10:28:33 GMT",
+          "source": "The Economic Times",
+          "keyword": "premium tea market trends"
+        },
+        {
+          "title": "2026 Thai Nguyen International Tea Festival concludes - VOV World",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdVFHa1ZfczNfb2haQnZWaFdwM2RKRHRTUTRSZVRkLXRjQ0xWb2Z4MWZpWWpESjRvbWZ4YUpOekdvQTZMRWV5cy1rTlRRek1WWVZDRkVQWFVsWmNPc1RKaUlMeEpiNldfREdUODdyN0c4VW9zdjhheDlzUFFmS1c4NXZyZFRIUDJqWDI2cVVFLVNrYmZYR1E?oc=5",
+          "published": "Sun, 08 Nov 2026 10:48:00 GMT",
+          "source": "VOV World",
+          "keyword": "specialty tea industry"
+        }
+      ],
+      "competitor_news": [],
+      "platform_updates": [
+        {
+          "title": "HubSpot CRM Review: Features, Pros & Cons - TechRepublic",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhUEZGbmtZc1d4MmdVeE9sT0hmRmJhOFpxeDhRUHBQdnpKaUlBOE1STmVDRmV6U3RUYVNVTFg3UHJhSTJhenBGaEZoWDhPZFdzTWZPUndkbDlLV3d0OXhrdHNn?oc=5",
+          "published": "Wed, 21 Oct 2026 07:00:00 GMT",
+          "source": "TechRepublic",
+          "platform": "hubspot"
+        },
+        {
+          "title": "HubSpot Scraps Opt-Out Data Sharing Plan Days After Announcing It - CMSWire",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEhqcDdfazJLamVDYkRzM0FoNWxyOTNjUFAyM0xUSE84ellTUG1ta3hlVVZSODNvSHNQQkdoMXhrbzcxV3MwXzFaa1prV0Z0eGlNS01sQTk3NXhodDd5WFFoWDNEcFZDTTB6RWxSUjgxLXVwcDB6d0xUUHZqUUVSa1NrbS0yTFBvam5pNDVmYUV6c000cWt6dFlqWHJlWFk0WGFVY0JrZjY3OWp1MzNDc09FOFpLdw?oc=5",
+          "published": "Mon, 06 Jul 2026 07:00:00 GMT",
+          "source": "CMSWire",
+          "platform": "hubspot"
+        },
+        {
+          "title": "HubSpot CRM Review and Pricing in 2026 - Business.com",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XLVpENUMtLWt6UGdGYVR2SE05ZzVwUFVOcEtBXzhWbGpUeGlmYlZiS3JZbnF6QzZlSXAwOHlabUlxU2F3c2NrTzU2Q3RLYmhDYlB4UDVFTG4?oc=5",
+          "published": "Wed, 07 Oct 2026 07:00:00 GMT",
+          "source": "Business.com",
+          "platform": "hubspot"
+        }
+      ],
+      "ai_summary": null
+    }
+  ]
+}
